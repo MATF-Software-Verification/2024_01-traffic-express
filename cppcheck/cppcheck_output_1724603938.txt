@@ -1,0 +1,1352 @@
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '_MSC_BUILD;_MSC_VER' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '_MSC_BUILD;_MSC_VER' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '_MSC_FULL_VER;_MSC_VER' since the value of '_MSC_FULL_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '_MSC_FULL_VER;_MSC_VER' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '_MSC_FULL_VER;_MSC_VER' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '_MSC_VER' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '_MSC_VER' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '_MSC_VER;_MSVC_LANG' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '_MSC_VER;_MSVC_LANG' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '_MSC_VER;_WIN32' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '_MSC_VER;_WIN32' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '_MSC_VER;_WIN32;_M_AMD64;_M_X64' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '_MSC_VER;_WIN32;_M_AMD64;_M_X64' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '_MSC_VER;_WIN32;_M_ARM' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '_MSC_VER;_WIN32;_M_ARM' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:718:0: [31minformation:[39m Skipping configuration '_MSC_VER;_WIN32;_M_ARM' since the value of '_M_ARM' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '_MSC_VER;_WIN32;_M_ARM64' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '_MSC_VER;_WIN32;_M_ARM64' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '_MSC_VER;_WIN32;_M_ARM64EC' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '_MSC_VER;_WIN32;_M_ARM64EC' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '_MSC_VER;_WIN32;_M_ARM;_M_ARM=4' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '_MSC_VER;_WIN32;_M_ARM;_M_ARM=4' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:718:0: [31minformation:[39m Skipping configuration '_MSC_VER;_WIN32;_M_ARM;_M_ARM=4' since the value of '_M_ARM' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '_MSC_VER;_WIN32;_M_ARM;_M_ARM=5' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '_MSC_VER;_WIN32;_M_ARM;_M_ARM=5' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:718:0: [31minformation:[39m Skipping configuration '_MSC_VER;_WIN32;_M_ARM;_M_ARM=5' since the value of '_M_ARM' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '_MSC_VER;_WIN32;_M_IA64' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '_MSC_VER;_WIN32;_M_IA64' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '_MSC_VER;_WIN32;_M_IX86' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '_MSC_VER;_WIN32;_M_IX86' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '_MSC_VER;_WIN32;_M_MIPS' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '_MSC_VER;_WIN32;_M_MIPS' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '_MSC_VER;_WIN32;_M_SH' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '_MSC_VER;_WIN32;_M_SH' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '_MSC_VER;__GNUC__;__STRICT_ANSI__;__TI_COMPILER_VERSION__;__clang__' since the value of '__TI_COMPILER_VERSION__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '_MSC_VER;__GNUC__;__STRICT_ANSI__;__TI_COMPILER_VERSION__;__clang__' since the value of '__TI_COMPILER_VERSION__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '_MSC_VER;__GNUC__;__STRICT_ANSI__;__TI_COMPILER_VERSION__;__clang__' since the value of '__TI_COMPILER_VERSION__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:700:0: [31minformation:[39m Skipping configuration '_MSC_VER;__ICC;__INTEL_COMPILER' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  SIMULATE_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:702:0: [31minformation:[39m Skipping configuration '_MSC_VER;__ICC;__INTEL_COMPILER' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', SIMULATE_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '_MSC_VER;__ICC;__INTEL_COMPILER' since the value of '__INTEL_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '_MSC_VER;__ICC;__INTEL_COMPILER' since the value of '__INTEL_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '_MSC_VER;__ICC;__INTEL_COMPILER' since the value of '__INTEL_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:700:0: [31minformation:[39m Skipping configuration '_MSC_VER;__INTEL_CLANG_COMPILER;__INTEL_LLVM_COMPILER;__clang__' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  SIMULATE_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:702:0: [31minformation:[39m Skipping configuration '_MSC_VER;__INTEL_CLANG_COMPILER;__INTEL_LLVM_COMPILER;__clang__' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', SIMULATE_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '_MSC_VER;__INTEL_CLANG_COMPILER;__INTEL_LLVM_COMPILER;__clang__' since the value of '__INTEL_LLVM_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '_MSC_VER;__INTEL_CLANG_COMPILER;__INTEL_LLVM_COMPILER;__clang__' since the value of '__INTEL_LLVM_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '_MSC_VER;__INTEL_CLANG_COMPILER;__INTEL_LLVM_COMPILER;__clang__' since the value of '__INTEL_LLVM_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:700:0: [31minformation:[39m Skipping configuration '_MSC_VER;__apple_build_version__;__clang__' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  SIMULATE_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:702:0: [31minformation:[39m Skipping configuration '_MSC_VER;__apple_build_version__;__clang__' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', SIMULATE_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:677:0: [31minformation:[39m Skipping configuration '_MSC_VER;__apple_build_version__;__clang__' since the value of '__apple_build_version__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+    '.', COMPILER_VERSION_TWEAK,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:700:0: [31minformation:[39m Skipping configuration '_MSC_VER;__clang__' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  SIMULATE_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:702:0: [31minformation:[39m Skipping configuration '_MSC_VER;__clang__' since the value of '_MSC_VER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', SIMULATE_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '_MSVC_LANG;__INTEL_COMPILER' since the value of '__INTEL_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '_MSVC_LANG;__INTEL_COMPILER' since the value of '__INTEL_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '_MSVC_LANG;__INTEL_COMPILER' since the value of '__INTEL_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '_MSVC_LANG;__INTEL_COMPILER;__INTEL_CXX11_MODE__' since the value of '__INTEL_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '_MSVC_LANG;__INTEL_COMPILER;__INTEL_CXX11_MODE__' since the value of '__INTEL_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '_MSVC_LANG;__INTEL_COMPILER;__INTEL_CXX11_MODE__' since the value of '__INTEL_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '_MSVC_LANG;__INTEL_COMPILER;__INTEL_CXX11_MODE__;__cpp_aggregate_nsdmi' since the value of '__INTEL_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '_MSVC_LANG;__INTEL_COMPILER;__INTEL_CXX11_MODE__;__cpp_aggregate_nsdmi' since the value of '__INTEL_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '_MSVC_LANG;__INTEL_COMPILER;__INTEL_CXX11_MODE__;__cpp_aggregate_nsdmi' since the value of '__INTEL_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '_M_I86;__WATCOMC__' since the value of '__WATCOMC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '_M_I86;__WATCOMC__' since the value of '__WATCOMC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '_M_I86;__WATCOMC__' since the value of '__WATCOMC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '_M_IX86;__WATCOMC__' since the value of '__WATCOMC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '_M_IX86;__WATCOMC__' since the value of '__WATCOMC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '_M_IX86;__WATCOMC__' since the value of '__WATCOMC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '_TMS320C6X;__TMS320C6X__;__TI_COMPILER_VERSION__' since the value of '__TI_COMPILER_VERSION__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '_TMS320C6X;__TMS320C6X__;__TI_COMPILER_VERSION__' since the value of '__TI_COMPILER_VERSION__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '_TMS320C6X;__TMS320C6X__;__TI_COMPILER_VERSION__' since the value of '__TI_COMPILER_VERSION__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__ADSP21000__;__ADSPBLACKFIN__;__ADSPTS__;__VISUALDSPVERSION__' since the value of '__VISUALDSPVERSION__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '__ADSP21000__;__ADSPBLACKFIN__;__ADSPTS__;__VISUALDSPVERSION__' since the value of '__VISUALDSPVERSION__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '__ADSP21000__;__ADSPBLACKFIN__;__ADSPTS__;__VISUALDSPVERSION__' since the value of '__VISUALDSPVERSION__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__ADSP21000__;__ADSPBLACKFIN__;__ADSPTS__;__VISUALDSPVERSION__;__VISUALDSPVERSION__' since the value of '__VISUALDSPVERSION__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '__ADSP21000__;__ADSPBLACKFIN__;__ADSPTS__;__VISUALDSPVERSION__;__VISUALDSPVERSION__' since the value of '__VISUALDSPVERSION__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '__ADSP21000__;__ADSPBLACKFIN__;__ADSPTS__;__VISUALDSPVERSION__;__VISUALDSPVERSION__' since the value of '__VISUALDSPVERSION__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__ARMCOMPILER_VERSION;__clang__' since the value of '__ARMCOMPILER_VERSION' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '__ARMCOMPILER_VERSION;__clang__' since the value of '__ARMCOMPILER_VERSION' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '__ARMCOMPILER_VERSION;__clang__' since the value of '__ARMCOMPILER_VERSION' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:690:0: [31minformation:[39m Skipping configuration '__ARMCOMPILER_VERSION;__clang__' since the value of '__ARMCOMPILER_VERSION' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_INTERNAL,']','\0'};
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__BORLANDC__' since the value of '__BORLANDC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '__BORLANDC__' since the value of '__BORLANDC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__BORLANDC__;__CODEGEARC_VERSION__' since the value of '__CODEGEARC_VERSION__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '__BORLANDC__;__CODEGEARC_VERSION__' since the value of '__CODEGEARC_VERSION__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '__BORLANDC__;__CODEGEARC_VERSION__' since the value of '__CODEGEARC_VERSION__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__COMPILER_VER__;__IBMCPP__' since the value of '__IBMCPP__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '__COMPILER_VER__;__IBMCPP__' since the value of '__IBMCPP__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '__COMPILER_VER__;__IBMCPP__' since the value of '__IBMCPP__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__DOS__;__WATCOMC__' since the value of '__WATCOMC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '__DOS__;__WATCOMC__' since the value of '__WATCOMC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '__DOS__;__WATCOMC__' since the value of '__WATCOMC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:690:0: [31minformation:[39m Skipping configuration '__FCC_VERSION;__FUJITSU' since the value of '__FCC_VERSION' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_INTERNAL,']','\0'};
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__FCC_major__;__FUJITSU' since the value of '__FCC_major__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:664:0: [31minformation:[39m Skipping configuration '__FCC_version__;__FUJITSU' since the value of '__FCC_version__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+char const* info_version = "INFO" ":" "compiler_version[" COMPILER_VERSION "]";
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:690:0: [31minformation:[39m Skipping configuration '__FUJITSU;__fcc_version' since the value of '__fcc_version' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_INTERNAL,']','\0'};
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__GHS_VERSION_NUMBER;__ghs__' since the value of '__GHS_VERSION_NUMBER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '__GHS_VERSION_NUMBER;__ghs__' since the value of '__GHS_VERSION_NUMBER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '__GHS_VERSION_NUMBER;__ghs__' since the value of '__GHS_VERSION_NUMBER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '__GNUC_MINOR__;__GNUC__;__GNUG__' since the value of '__GNUC_MINOR__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__GNUC_MINOR__;__GNUC__;__GNUG__' since the value of '__GNUC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__GNUC_MINOR__;__ICC;__INTEL_COMPILER' since the value of '__INTEL_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '__GNUC_MINOR__;__ICC;__INTEL_COMPILER' since the value of '__INTEL_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '__GNUC_MINOR__;__ICC;__INTEL_COMPILER' since the value of '__INTEL_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__GNUC_MINOR__;__INTEL_CLANG_COMPILER;__INTEL_LLVM_COMPILER;__clang__' since the value of '__INTEL_LLVM_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '__GNUC_MINOR__;__INTEL_CLANG_COMPILER;__INTEL_LLVM_COMPILER;__clang__' since the value of '__INTEL_LLVM_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '__GNUC_MINOR__;__INTEL_CLANG_COMPILER;__INTEL_LLVM_COMPILER;__clang__' since the value of '__INTEL_LLVM_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__GNUC_PATCHLEVEL__;__GNUC__;__GNUG__' since the value of '__GNUC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__GNUC_PATCHLEVEL__;__ICC;__INTEL_COMPILER' since the value of '__INTEL_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '__GNUC_PATCHLEVEL__;__ICC;__INTEL_COMPILER' since the value of '__INTEL_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '__GNUC_PATCHLEVEL__;__ICC;__INTEL_COMPILER' since the value of '__INTEL_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__GNUC_PATCHLEVEL__;__INTEL_CLANG_COMPILER;__INTEL_LLVM_COMPILER;__clang__' since the value of '__INTEL_LLVM_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '__GNUC_PATCHLEVEL__;__INTEL_CLANG_COMPILER;__INTEL_LLVM_COMPILER;__clang__' since the value of '__INTEL_LLVM_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '__GNUC_PATCHLEVEL__;__INTEL_CLANG_COMPILER;__INTEL_LLVM_COMPILER;__clang__' since the value of '__INTEL_LLVM_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__GNUC__;__GNUC__;__GNUG__' since the value of '__GNUC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__GNUC__;__GNUG__' since the value of '__GNUC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:700:0: [31minformation:[39m Skipping configuration '__GNUC__;__ICC;__INTEL_COMPILER' since the value of '__GNUC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  SIMULATE_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__GNUC__;__ICC;__INTEL_COMPILER' since the value of '__INTEL_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '__GNUC__;__ICC;__INTEL_COMPILER' since the value of '__INTEL_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '__GNUC__;__ICC;__INTEL_COMPILER' since the value of '__INTEL_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:700:0: [31minformation:[39m Skipping configuration '__GNUC__;__INTEL_CLANG_COMPILER;__INTEL_LLVM_COMPILER;__clang__' since the value of '__GNUC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  SIMULATE_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__GNUC__;__INTEL_CLANG_COMPILER;__INTEL_LLVM_COMPILER;__clang__' since the value of '__INTEL_LLVM_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '__GNUC__;__INTEL_CLANG_COMPILER;__INTEL_LLVM_COMPILER;__clang__' since the value of '__INTEL_LLVM_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '__GNUC__;__INTEL_CLANG_COMPILER;__INTEL_LLVM_COMPILER;__clang__' since the value of '__INTEL_LLVM_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:700:0: [31minformation:[39m Skipping configuration '__GNUG__;__ICC;__INTEL_COMPILER' since the value of '__GNUG__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  SIMULATE_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__GNUG__;__ICC;__INTEL_COMPILER' since the value of '__INTEL_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '__GNUG__;__ICC;__INTEL_COMPILER' since the value of '__INTEL_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '__GNUG__;__ICC;__INTEL_COMPILER' since the value of '__INTEL_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:700:0: [31minformation:[39m Skipping configuration '__GNUG__;__INTEL_CLANG_COMPILER;__INTEL_LLVM_COMPILER;__clang__' since the value of '__GNUG__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  SIMULATE_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__GNUG__;__INTEL_CLANG_COMPILER;__INTEL_LLVM_COMPILER;__clang__' since the value of '__INTEL_LLVM_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '__GNUG__;__INTEL_CLANG_COMPILER;__INTEL_LLVM_COMPILER;__clang__' since the value of '__INTEL_LLVM_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '__GNUG__;__INTEL_CLANG_COMPILER;__INTEL_LLVM_COMPILER;__clang__' since the value of '__INTEL_LLVM_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__HP_aCC' since the value of '__HP_aCC' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '__HP_aCC' since the value of '__HP_aCC' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '__HP_aCC' since the value of '__HP_aCC' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:690:0: [31minformation:[39m Skipping configuration '__IAR_SYSTEMS_ICC;__IAR_SYSTEMS_ICC__;__ICC430__;__ICC8051__;__ICCAVR__;__ICCRH850__;__ICCRISCV__;__ICCRL78__;__ICCRX__;__ICCSTM8__;__ICCV850__;__VER__' since the value of '__IAR_SYSTEMS_ICC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_INTERNAL,']','\0'};
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__IAR_SYSTEMS_ICC;__IAR_SYSTEMS_ICC__;__ICC430__;__ICC8051__;__ICCAVR__;__ICCRH850__;__ICCRISCV__;__ICCRL78__;__ICCRX__;__ICCSTM8__;__ICCV850__;__VER__' since the value of '__VER__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '__IAR_SYSTEMS_ICC;__IAR_SYSTEMS_ICC__;__ICC430__;__ICC8051__;__ICCAVR__;__ICCRH850__;__ICCRISCV__;__ICCRL78__;__ICCRX__;__ICCSTM8__;__ICCV850__;__VER__' since the value of '__VER__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:690:0: [31minformation:[39m Skipping configuration '__IAR_SYSTEMS_ICC;__IAR_SYSTEMS_ICC__;__ICCARM__;__VER__' since the value of '__IAR_SYSTEMS_ICC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_INTERNAL,']','\0'};
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__IAR_SYSTEMS_ICC;__IAR_SYSTEMS_ICC__;__ICCARM__;__VER__' since the value of '__VER__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '__IAR_SYSTEMS_ICC;__IAR_SYSTEMS_ICC__;__ICCARM__;__VER__' since the value of '__VER__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '__IAR_SYSTEMS_ICC;__IAR_SYSTEMS_ICC__;__ICCARM__;__VER__' since the value of '__VER__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__ICC;__INTEL_COMPILER' since the value of '__INTEL_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '__ICC;__INTEL_COMPILER' since the value of '__INTEL_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '__ICC;__INTEL_COMPILER' since the value of '__INTEL_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__ICC;__INTEL_COMPILER;__INTEL_COMPILER_BUILD_DATE' since the value of '__INTEL_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '__ICC;__INTEL_COMPILER;__INTEL_COMPILER_BUILD_DATE' since the value of '__INTEL_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '__ICC;__INTEL_COMPILER;__INTEL_COMPILER_BUILD_DATE' since the value of '__INTEL_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:677:0: [31minformation:[39m Skipping configuration '__ICC;__INTEL_COMPILER;__INTEL_COMPILER_BUILD_DATE' since the value of '__INTEL_COMPILER_BUILD_DATE' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+    '.', COMPILER_VERSION_TWEAK,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__ICC;__INTEL_COMPILER;__INTEL_COMPILER_UPDATE' since the value of '__INTEL_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '__ICC;__INTEL_COMPILER;__INTEL_COMPILER_UPDATE' since the value of '__INTEL_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '__ICC;__INTEL_COMPILER;__INTEL_COMPILER_UPDATE' since the value of '__INTEL_COMPILER_UPDATE' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__INTEL_CLANG_COMPILER;__INTEL_LLVM_COMPILER;__clang__' since the value of '__INTEL_LLVM_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '__INTEL_CLANG_COMPILER;__INTEL_LLVM_COMPILER;__clang__' since the value of '__INTEL_LLVM_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '__INTEL_CLANG_COMPILER;__INTEL_LLVM_COMPILER;__clang__' since the value of '__INTEL_LLVM_COMPILER' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__LINUX__;__WATCOMC__' since the value of '__WATCOMC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '__LINUX__;__WATCOMC__' since the value of '__WATCOMC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '__LINUX__;__WATCOMC__' since the value of '__WATCOMC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__MSP430__;__TI_COMPILER_VERSION__' since the value of '__TI_COMPILER_VERSION__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '__MSP430__;__TI_COMPILER_VERSION__' since the value of '__TI_COMPILER_VERSION__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '__MSP430__;__TI_COMPILER_VERSION__' since the value of '__TI_COMPILER_VERSION__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '__NVCOMPILER;__NVCOMPILER_PATCHLEVEL__' since the value of '__NVCOMPILER_PATCHLEVEL__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__OS2__;__WATCOMC__' since the value of '__WATCOMC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '__OS2__;__WATCOMC__' since the value of '__WATCOMC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '__OS2__;__WATCOMC__' since the value of '__WATCOMC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '__PATHCC_PATCHLEVEL__;__PATHCC__' since the value of '__PATHCC_PATCHLEVEL__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__PATHCC_PATCHLEVEL__;__PATHCC__' since the value of '__PATHCC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__PATHCC__' since the value of '__PATHCC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '__PGI;__PGIC_PATCHLEVEL__' since the value of '__PGIC_PATCHLEVEL__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__SUNPRO_CC' since the value of '__SUNPRO_CC' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '__SUNPRO_CC' since the value of '__SUNPRO_CC' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '__SUNPRO_CC' since the value of '__SUNPRO_CC' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__TI_ARM__;__TI_COMPILER_VERSION__' since the value of '__TI_COMPILER_VERSION__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '__TI_ARM__;__TI_COMPILER_VERSION__' since the value of '__TI_COMPILER_VERSION__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '__TI_ARM__;__TI_COMPILER_VERSION__' since the value of '__TI_COMPILER_VERSION__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__TI_COMPILER_VERSION__' since the value of '__TI_COMPILER_VERSION__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '__TI_COMPILER_VERSION__' since the value of '__TI_COMPILER_VERSION__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '__TI_COMPILER_VERSION__' since the value of '__TI_COMPILER_VERSION__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__TI_COMPILER_VERSION__;__TMS320C28XX__' since the value of '__TI_COMPILER_VERSION__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '__TI_COMPILER_VERSION__;__TMS320C28XX__' since the value of '__TI_COMPILER_VERSION__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '__TI_COMPILER_VERSION__;__TMS320C28XX__' since the value of '__TI_COMPILER_VERSION__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__VXWORKS__;__WATCOMC__' since the value of '__WATCOMC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '__VXWORKS__;__WATCOMC__' since the value of '__WATCOMC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '__VXWORKS__;__WATCOMC__' since the value of '__WATCOMC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__WATCOMC__' since the value of '__WATCOMC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '__WATCOMC__' since the value of '__WATCOMC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '__WATCOMC__' since the value of '__WATCOMC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:671:0: [31minformation:[39m Skipping configuration '__WATCOMC__;__WINDOWS__' since the value of '__WATCOMC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  COMPILER_VERSION_MAJOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:673:0: [31minformation:[39m Skipping configuration '__WATCOMC__;__WINDOWS__' since the value of '__WATCOMC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+  '.', COMPILER_VERSION_MINOR,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:675:0: [31minformation:[39m Skipping configuration '__WATCOMC__;__WINDOWS__' since the value of '__WATCOMC__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+   '.', COMPILER_VERSION_PATCH,
+^
+[1m../01-traffic-express/TrafficExpress/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp:677:0: [31minformation:[39m Skipping configuration '__apple_build_version__;__clang__' since the value of '__apple_build_version__' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+    '.', COMPILER_VERSION_TWEAK,
+^
+[1m../01-traffic-express/TrafficExpress/Server_autogen/LS7VSSUDNR/moc_playerserver.cpp:0:0: [31minformation:[39m This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/Server_autogen/mocs_compilation.cpp:0:0: [31minformation:[39m This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/TrafficExpress_autogen/6DEF5JIB3U/moc_playerclient.cpp:0:0: [31minformation:[39m This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/TrafficExpress_autogen/EWIEGA46WW/moc_mainwindow.cpp:0:0: [31minformation:[39m This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/TrafficExpress_autogen/K6S233IZAZ/moc_card.cpp:0:0: [31minformation:[39m This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/TrafficExpress_autogen/K6S233IZAZ/moc_deck.cpp:0:0: [31minformation:[39m This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/TrafficExpress_autogen/K6S233IZAZ/moc_dialoguebox.cpp:0:0: [31minformation:[39m This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/TrafficExpress_autogen/K6S233IZAZ/moc_hand.cpp:0:0: [31minformation:[39m This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/TrafficExpress_autogen/K6S233IZAZ/moc_miniround.cpp:0:0: [31minformation:[39m This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/TrafficExpress_autogen/K6S233IZAZ/moc_player.cpp:0:0: [31minformation:[39m This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/TrafficExpress_autogen/K6S233IZAZ/moc_playerperspective.cpp:0:0: [31minformation:[39m This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/TrafficExpress_autogen/K6S233IZAZ/moc_playerstats.cpp:0:0: [31minformation:[39m This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/TrafficExpress_autogen/K6S233IZAZ/moc_roundcard.cpp:0:0: [31minformation:[39m This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/TrafficExpress_autogen/K6S233IZAZ/moc_roundcarddeck.cpp:0:0: [31minformation:[39m This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/TrafficExpress_autogen/K6S233IZAZ/moc_sheriff.cpp:0:0: [31minformation:[39m This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/TrafficExpress_autogen/K6S233IZAZ/moc_singleplayerstatemachine.cpp:0:0: [31minformation:[39m This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/TrafficExpress_autogen/K6S233IZAZ/moc_table.cpp:0:0: [31minformation:[39m This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/TrafficExpress_autogen/K6S233IZAZ/moc_train.cpp:0:0: [31minformation:[39m This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/TrafficExpress_autogen/K6S233IZAZ/moc_treasure.cpp:0:0: [31minformation:[39m This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/TrafficExpress_autogen/K6S233IZAZ/moc_wagon.cpp:0:0: [31minformation:[39m This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/TrafficExpress_autogen/mocs_compilation.cpp:0:0: [31minformation:[39m This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/headers/miniround.h:20:5: [31mstyle:[39m Class 'MiniRound' has a constructor with 1 argument that is not explicit. [noExplicitConstructor][0m
+    MiniRound(MiniRoundType);
+    ^
+[1m../01-traffic-express/TrafficExpress/mainwindow.cpp:137:11: [31m[35mstyle: inconclusive:[39m Found duplicate branches for 'if' and 'else'. [duplicateBranch][0m
+    }else if(m_client->getHost()){
+          ^
+[1m../01-traffic-express/TrafficExpress/mainwindow.cpp:140:6: [2mnote:[0m Found duplicate branches for 'if' and 'else'.
+    }else{
+     ^
+[1m../01-traffic-express/TrafficExpress/mainwindow.cpp:137:11: [2mnote:[0m Found duplicate branches for 'if' and 'else'.
+    }else if(m_client->getHost()){
+          ^
+[1m../01-traffic-express/TrafficExpress/mainwindow.cpp:124:16: [31mstyle:[39m Variable 'readys' is assigned a value that is never used. [unreadVariable][0m
+    auto readys=m_client->getReadys();
+               ^
+[1m../01-traffic-express/TrafficExpress/qrc_resource.cpp:111477:0: [31minformation:[39m Skipping configuration 'QT_NAMESPACE' since the value of 'QT_NAMESPACE' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+namespace QT_NAMESPACE {
+^
+[1m../01-traffic-express/TrafficExpress/qrc_resource.cpp:111497:0: [31minformation:[39m Skipping configuration 'QT_NAMESPACE' since the value of 'QT_NAMESPACE' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+int QT_RCC_MANGLE_NAMESPACE(qInitResources_resource)();
+^
+[1m../01-traffic-express/TrafficExpress/qrc_resource.cpp:111498:0: [31minformation:[39m Skipping configuration 'QT_NAMESPACE' since the value of 'QT_NAMESPACE' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+int QT_RCC_MANGLE_NAMESPACE(qInitResources_resource)()
+^
+[1m../01-traffic-express/TrafficExpress/qrc_resource.cpp:111501:0: [31minformation:[39m Skipping configuration 'QT_NAMESPACE' since the value of 'QT_NAMESPACE' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+    QT_RCC_PREPEND_NAMESPACE(qRegisterResourceData)
+^
+[1m../01-traffic-express/TrafficExpress/qrc_resource.cpp:111506:0: [31minformation:[39m Skipping configuration 'QT_NAMESPACE' since the value of 'QT_NAMESPACE' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+int QT_RCC_MANGLE_NAMESPACE(qCleanupResources_resource)();
+^
+[1m../01-traffic-express/TrafficExpress/qrc_resource.cpp:111507:0: [31minformation:[39m Skipping configuration 'QT_NAMESPACE' since the value of 'QT_NAMESPACE' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+int QT_RCC_MANGLE_NAMESPACE(qCleanupResources_resource)()
+^
+[1m../01-traffic-express/TrafficExpress/qrc_resource.cpp:111510:0: [31minformation:[39m Skipping configuration 'QT_NAMESPACE' since the value of 'QT_NAMESPACE' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+    version += QT_RCC_PREPEND_NAMESPACE(qResourceFeatureZstd());
+^
+[1m../01-traffic-express/TrafficExpress/qrc_resource.cpp:111511:0: [31minformation:[39m Skipping configuration 'QT_NAMESPACE' since the value of 'QT_NAMESPACE' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+    QT_RCC_PREPEND_NAMESPACE(qUnregisterResourceData)
+^
+[1m../01-traffic-express/TrafficExpress/qrc_resource.cpp:111518:0: [31minformation:[39m Skipping configuration 'QT_NAMESPACE' since the value of 'QT_NAMESPACE' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+       initializer() { QT_RCC_MANGLE_NAMESPACE(qInitResources_resource)(); }
+^
+[1m../01-traffic-express/TrafficExpress/qrc_resource.cpp:111519:0: [31minformation:[39m Skipping configuration 'QT_NAMESPACE' since the value of 'QT_NAMESPACE' is unknown. Use -D if you want to check it. You can use -U to skip it explicitly. [ConfigurationNotChecked][0m
+       ~initializer() { QT_RCC_MANGLE_NAMESPACE(qCleanupResources_resource)(); }
+^
+[1m../01-traffic-express/TrafficExpress/src/actioncard.cpp:5:13: [31mwarning:[39m Member variable 'ActionCard::m_action' is not initialized in the constructor. [uninitMemberVar][0m
+ActionCard::ActionCard():
+            ^
+[1m../01-traffic-express/TrafficExpress/headers/banditcard.h:21:5: [31mstyle:[39m Class 'BanditCard' has a constructor with 1 argument that is not explicit. [noExplicitConstructor][0m
+    BanditCard(BanditType bandit);
+    ^
+[1m../01-traffic-express/TrafficExpress/src/client/playerclient.cpp:5:15: [31mwarning:[39m Member variable 'PlayerClient::m_clientSocket' is not initialized in the constructor. [uninitMemberVar][0m
+PlayerClient::PlayerClient(QObject *parent)
+              ^
+[1m../01-traffic-express/TrafficExpress/src/client/playerclient.cpp:5:15: [31mwarning:[39m Member variable 'PlayerClient::m_pp' is not initialized in the constructor. [uninitMemberVar][0m
+PlayerClient::PlayerClient(QObject *parent)
+              ^
+[1m../01-traffic-express/TrafficExpress/src/client/playerclient.cpp:5:15: [31mwarning:[39m Member variable 'PlayerClient::m_gameIncoming' is not initialized in the constructor. [uninitMemberVar][0m
+PlayerClient::PlayerClient(QObject *parent)
+              ^
+[1m../01-traffic-express/TrafficExpress/src/client/playerclient.cpp:8:5: [31mperformance:[39m Variable 'm_ready' is assigned in constructor body. Consider performing initialization in initialization list. [useInitializationList][0m
+    m_ready=std::vector<bool>();
+    ^
+[1m../01-traffic-express/TrafficExpress/src/client/playerclient.cpp:9:5: [31mperformance:[39m Variable 'm_names' is assigned in constructor body. Consider performing initialization in initialization list. [useInitializationList][0m
+    m_names=std::vector<QString>();
+    ^
+[1m../01-traffic-express/TrafficExpress/src/client/playerclient.cpp:270:16: [31mstyle:[39m Consider using std::transform algorithm instead of a raw loop. [useStlAlgorithm][0m
+       players.push_back(new Player(bt));
+               ^
+[1m../01-traffic-express/TrafficExpress/headers/collections/cardcolection.h:14:5: [31mstyle:[39m Class 'CardColection' has a constructor with 1 argument that is not explicit. [noExplicitConstructor][0m
+    CardColection(std::vector<ActionCard*> cards);
+    ^
+[1m../01-traffic-express/TrafficExpress/src/collections/cardcolection.cpp:27:12: [31mstyle:[39m Consider using std::transform algorithm instead of a raw loop. [useStlAlgorithm][0m
+        cc.push_back(c->Copy());
+           ^
+[1m../01-traffic-express/TrafficExpress/headers/collections/miniroundcollection.h:13:5: [31mstyle:[39m Class 'MiniRoundCollection' has a constructor with 1 argument that is not explicit. [noExplicitConstructor][0m
+    MiniRoundCollection(std::vector<MiniRound*>&);
+    ^
+[1m../01-traffic-express/TrafficExpress/src/collections/miniroundcollection.cpp:8:68: [31mstyle:[39m Parameter 'other' can be declared with const [constParameter][0m
+MiniRoundCollection::MiniRoundCollection(std::vector<MiniRound *> &other)
+                                                                   ^
+[1m../01-traffic-express/TrafficExpress/headers/collections/playergroup.h:12:5: [31mstyle:[39m Class 'PlayerGroup' has a constructor with 1 argument that is not explicit. [noExplicitConstructor][0m
+    PlayerGroup(std::vector<Player*>&);
+    ^
+[1m../01-traffic-express/TrafficExpress/src/collections/playergroup.cpp:8:49: [31mstyle:[39m Parameter 'vp' can be declared with const [constParameter][0m
+PlayerGroup::PlayerGroup(std::vector<Player *> &vp)
+                                                ^
+[1m../01-traffic-express/TrafficExpress/headers/collections/playerstatscollection.h:12:5: [31mstyle:[39m Class 'PlayerStatsCollection' has a constructor with 1 argument that is not explicit. [noExplicitConstructor][0m
+    PlayerStatsCollection(std::vector<PlayerStats*>&);
+    ^
+[1m../01-traffic-express/TrafficExpress/src/collections/playerstatscollection.cpp:8:74: [31mstyle:[39m Parameter 'psv' can be declared with const [constParameter][0m
+PlayerStatsCollection::PlayerStatsCollection(std::vector<PlayerStats *> &psv)
+                                                                         ^
+[1m../01-traffic-express/TrafficExpress/headers/collections/roundcardcollection.h:13:5: [31mstyle:[39m Class 'RoundCardCollection' has a constructor with 1 argument that is not explicit. [noExplicitConstructor][0m
+    RoundCardCollection(std::vector<RoundCard*>&);
+    ^
+[1m../01-traffic-express/TrafficExpress/src/collections/roundcardcollection.cpp:8:68: [31mstyle:[39m Parameter 'rcv' can be declared with const [constParameter][0m
+RoundCardCollection::RoundCardCollection(std::vector<RoundCard *> &rcv)
+                                                                   ^
+[1m../01-traffic-express/TrafficExpress/headers/collections/treasurechest.h:10:5: [31mstyle:[39m Class 'TreasureChest' has a constructor with 1 argument that is not explicit. [noExplicitConstructor][0m
+    TreasureChest(vector<Treasure*>);
+    ^
+[1m../01-traffic-express/TrafficExpress/src/dialoguebox.cpp:41:5: [31merror:[39m There is an unknown macro here somewhere. Configuration is required. If Q_UNUSED is a macro then please configure it. [unknownMacro][0m
+    Q_UNUSED(option)
+    ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:7:7: [31m[35mwarning: inconclusive:[39m Member variable 'Game::m_indexOfPlayerToMove' is not initialized in the constructor. [uninitMemberVar][0m
+Game::Game()
+      ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:7:7: [31m[35mwarning: inconclusive:[39m Member variable 'Game::m_indexOfRound' is not initialized in the constructor. [uninitMemberVar][0m
+Game::Game()
+      ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:7:7: [31m[35mwarning: inconclusive:[39m Member variable 'Game::m_indexOfMiniround' is not initialized in the constructor. [uninitMemberVar][0m
+Game::Game()
+      ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:7:7: [31m[35mwarning: inconclusive:[39m Member variable 'Game::m_currentAction' is not initialized in the constructor. [uninitMemberVar][0m
+Game::Game()
+      ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:7:7: [31m[35mwarning: inconclusive:[39m Member variable 'Game::m_wagons' is not initialized in the constructor. [uninitMemberVar][0m
+Game::Game()
+      ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:7:7: [31m[35mwarning: inconclusive:[39m Member variable 'Game::m_sheriffPosition' is not initialized in the constructor. [uninitMemberVar][0m
+Game::Game()
+      ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:7:7: [31m[35mwarning: inconclusive:[39m Member variable 'Game::m_rounds' is not initialized in the constructor. [uninitMemberVar][0m
+Game::Game()
+      ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:7:7: [31m[35mwarning: inconclusive:[39m Member variable 'Game::m_cardsPlayed' is not initialized in the constructor. [uninitMemberVar][0m
+Game::Game()
+      ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:7:7: [31m[35mwarning: inconclusive:[39m Member variable 'Game::m_mostBulletsShot' is not initialized in the constructor. [uninitMemberVar][0m
+Game::Game()
+      ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:7:7: [31m[35mwarning: inconclusive:[39m Member variable 'Game::m_richestPlayer' is not initialized in the constructor. [uninitMemberVar][0m
+Game::Game()
+      ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:7:7: [31m[35mwarning: inconclusive:[39m Member variable 'Game::m_phase' is not initialized in the constructor. [uninitMemberVar][0m
+Game::Game()
+      ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:7:7: [31m[35mwarning: inconclusive:[39m Member variable 'Game::m_dialogueBox' is not initialized in the constructor. [uninitMemberVar][0m
+Game::Game()
+      ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:7:7: [31m[35mwarning: inconclusive:[39m Member variable 'Game::m_actionPending' is not initialized in the constructor. [uninitMemberVar][0m
+Game::Game()
+      ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:7:7: [31m[35mwarning: inconclusive:[39m Member variable 'Game::m_playerClicked' is not initialized in the constructor. [uninitMemberVar][0m
+Game::Game()
+      ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:7:7: [31m[35mwarning: inconclusive:[39m Member variable 'Game::m_seed' is not initialized in the constructor. [uninitMemberVar][0m
+Game::Game()
+      ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:12:7: [31mwarning:[39m Member variable 'Game::m_currentAction' is not initialized in the constructor. [uninitMemberVar][0m
+Game::Game( std::vector<Player*> &players)
+      ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:12:7: [31mwarning:[39m Member variable 'Game::m_wagons' is not initialized in the constructor. [uninitMemberVar][0m
+Game::Game( std::vector<Player*> &players)
+      ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:12:7: [31mwarning:[39m Member variable 'Game::m_sheriffPosition' is not initialized in the constructor. [uninitMemberVar][0m
+Game::Game( std::vector<Player*> &players)
+      ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:12:7: [31mwarning:[39m Member variable 'Game::m_rounds' is not initialized in the constructor. [uninitMemberVar][0m
+Game::Game( std::vector<Player*> &players)
+      ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:12:7: [31mwarning:[39m Member variable 'Game::m_cardsPlayed' is not initialized in the constructor. [uninitMemberVar][0m
+Game::Game( std::vector<Player*> &players)
+      ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:12:7: [31mwarning:[39m Member variable 'Game::m_mostBulletsShot' is not initialized in the constructor. [uninitMemberVar][0m
+Game::Game( std::vector<Player*> &players)
+      ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:12:7: [31mwarning:[39m Member variable 'Game::m_richestPlayer' is not initialized in the constructor. [uninitMemberVar][0m
+Game::Game( std::vector<Player*> &players)
+      ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:12:7: [31mwarning:[39m Member variable 'Game::m_phase' is not initialized in the constructor. [uninitMemberVar][0m
+Game::Game( std::vector<Player*> &players)
+      ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:12:7: [31mwarning:[39m Member variable 'Game::m_dialogueBox' is not initialized in the constructor. [uninitMemberVar][0m
+Game::Game( std::vector<Player*> &players)
+      ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:12:7: [31mwarning:[39m Member variable 'Game::m_actionPending' is not initialized in the constructor. [uninitMemberVar][0m
+Game::Game( std::vector<Player*> &players)
+      ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:12:7: [31mwarning:[39m Member variable 'Game::m_playerClicked' is not initialized in the constructor. [uninitMemberVar][0m
+Game::Game( std::vector<Player*> &players)
+      ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:12:7: [31mwarning:[39m Member variable 'Game::m_seed' is not initialized in the constructor. [uninitMemberVar][0m
+Game::Game( std::vector<Player*> &players)
+      ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:18:7: [31m[35mwarning: inconclusive:[39m Member variable 'Game::m_actionPending' is not assigned in the copy constructor. Should it be copied? [missingMemberCopy][0m
+Game::Game(const Game &other)
+      ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:18:7: [31mwarning:[39m Member variable 'Game::m_playerClicked' is not initialized in the constructor. [uninitMemberVar][0m
+Game::Game(const Game &other)
+      ^
+[1m../01-traffic-express/TrafficExpress/headers/game.h:116:9: [31m[35mstyle: inconclusive:[39m Member variable 'Game::m_indexOfPlayerToMove' is in the wrong place in the initializer list. [initializerList][0m
+    int m_indexOfPlayerToMove;
+        ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:13:26: [2mnote:[0m Member variable 'Game::m_indexOfPlayerToMove' is in the wrong place in the initializer list.
+    : m_players(players),m_indexOfPlayerToMove(0),m_indexOfRound(0), m_indexOfMiniround(0)
+                         ^
+[1m../01-traffic-express/TrafficExpress/headers/game.h:116:9: [2mnote:[0m Member variable 'Game::m_indexOfPlayerToMove' is in the wrong place in the initializer list.
+    int m_indexOfPlayerToMove;
+        ^
+[1m../01-traffic-express/TrafficExpress/headers/game.h:116:9: [31m[35mstyle: inconclusive:[39m Member variable 'Game::m_indexOfPlayerToMove' is in the wrong place in the initializer list. [initializerList][0m
+    int m_indexOfPlayerToMove;
+        ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:27:7: [2mnote:[0m Member variable 'Game::m_indexOfPlayerToMove' is in the wrong place in the initializer list.
+      m_indexOfPlayerToMove(other.m_indexOfPlayerToMove),
+      ^
+[1m../01-traffic-express/TrafficExpress/headers/game.h:116:9: [2mnote:[0m Member variable 'Game::m_indexOfPlayerToMove' is in the wrong place in the initializer list.
+    int m_indexOfPlayerToMove;
+        ^
+[1m../01-traffic-express/TrafficExpress/headers/game.h:124:11: [31m[35mstyle: inconclusive:[39m Member variable 'Game::m_cardsPlayed' is in the wrong place in the initializer list. [initializerList][0m
+    Deck* m_cardsPlayed;
+          ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:31:7: [2mnote:[0m Member variable 'Game::m_cardsPlayed' is in the wrong place in the initializer list.
+      m_cardsPlayed(new Deck((other.m_cardsPlayed->getCards()))),
+      ^
+[1m../01-traffic-express/TrafficExpress/headers/game.h:124:11: [2mnote:[0m Member variable 'Game::m_cardsPlayed' is in the wrong place in the initializer list.
+    Deck* m_cardsPlayed;
+          ^
+[1m../01-traffic-express/TrafficExpress/headers/game.h:119:16: [31m[35mstyle: inconclusive:[39m Member variable 'Game::m_currentAction' is in the wrong place in the initializer list. [initializerList][0m
+    ActionType m_currentAction;
+               ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:32:7: [2mnote:[0m Member variable 'Game::m_currentAction' is in the wrong place in the initializer list.
+      m_currentAction(other.currentAction()),
+      ^
+[1m../01-traffic-express/TrafficExpress/headers/game.h:119:16: [2mnote:[0m Member variable 'Game::m_currentAction' is in the wrong place in the initializer list.
+    ActionType m_currentAction;
+               ^
+[1m../01-traffic-express/TrafficExpress/headers/sheriff.h:13:5: [31mstyle:[39m Class 'Sheriff' has a constructor with 1 argument that is not explicit. [noExplicitConstructor][0m
+    Sheriff(int);
+    ^
+[1m../01-traffic-express/TrafficExpress/headers/treasure.h:23:5: [31mstyle:[39m Class 'Treasure' has a constructor with 1 argument that is not explicit. [noExplicitConstructor][0m
+    Treasure(TreasureType type);
+    ^
+[1m../01-traffic-express/TrafficExpress/headers/deck.h:16:5: [31mstyle:[39m Class 'Deck' has a constructor with 1 argument that is not explicit. [noExplicitConstructor][0m
+    Deck(CardColection cc);
+    ^
+[1m../01-traffic-express/TrafficExpress/headers/hand.h:14:5: [31mstyle:[39m Class 'Hand' has a constructor with 1 argument that is not explicit. [noExplicitConstructor][0m
+    Hand(CardColection& cc);
+    ^
+[1m../01-traffic-express/TrafficExpress/headers/dialoguebox.h:16:5: [31mstyle:[39m Class 'DialogueBox' has a constructor with 1 argument that is not explicit. [noExplicitConstructor][0m
+    DialogueBox(QString &text);
+    ^
+[1m../01-traffic-express/TrafficExpress/headers/player.h:29:5: [31mstyle:[39m Class 'Player' has a constructor with 1 argument that is not explicit. [noExplicitConstructor][0m
+    Player(BanditType id);
+    ^
+[1m../01-traffic-express/TrafficExpress/headers/neutralbullet.h:12:5: [31mstyle:[39m Class 'NeutralBullet' has a constructor with 1 argument that is not explicit. [noExplicitConstructor][0m
+    NeutralBullet(BanditType id);
+    ^
+[1m../01-traffic-express/TrafficExpress/headers/train.h:16:5: [31mstyle:[39m Class 'Train' has a constructor with 1 argument that is not explicit. [noExplicitConstructor][0m
+    Train(std::vector<Wagon*>);
+    ^
+[1m../01-traffic-express/TrafficExpress/headers/train.h:17:5: [31mstyle:[39m Class 'Train' has a constructor with 1 argument that is not explicit. [noExplicitConstructor][0m
+    Train(WagonArray& wa);
+    ^
+[1m../01-traffic-express/TrafficExpress/headers/roundcarddeck.h:15:5: [31mstyle:[39m Class 'RoundCardDeck' has a constructor with 1 argument that is not explicit. [noExplicitConstructor][0m
+    RoundCardDeck(std::vector<RoundCard*>);
+    ^
+[1m../01-traffic-express/TrafficExpress/headers/roundcarddeck.h:16:5: [31mstyle:[39m Class 'RoundCardDeck' has a constructor with 1 argument that is not explicit. [noExplicitConstructor][0m
+    RoundCardDeck(const RoundCardCollection&);
+    ^
+[1m../01-traffic-express/TrafficExpress/headers/game.h:36:5: [31mstyle:[39m Class 'Game' has a constructor with 1 argument that is not explicit. [noExplicitConstructor][0m
+    Game(std::vector<Player*> &players);
+    ^
+[1m../01-traffic-express/TrafficExpress/headers/treasure.h:43:14: [31mstyle:[39m The function 'toVariant' overrides a function in a base class but is not marked with a 'override' specifier. [missingOverride][0m
+    QVariant toVariant() const;
+             ^
+[1m../01-traffic-express/TrafficExpress/headers/serializable.h:15:22: [2mnote:[0m Virtual function in base class
+    virtual QVariant toVariant() const = 0;
+                     ^
+[1m../01-traffic-express/TrafficExpress/headers/treasure.h:43:14: [2mnote:[0m Function in derived class
+    QVariant toVariant() const;
+             ^
+[1m../01-traffic-express/TrafficExpress/headers/treasure.h:44:10: [31mstyle:[39m The function 'fromVariant' overrides a function in a base class but is not marked with a 'override' specifier. [missingOverride][0m
+    void fromVariant(const QVariant &variant);
+         ^
+[1m../01-traffic-express/TrafficExpress/headers/serializable.h:17:18: [2mnote:[0m Virtual function in base class
+    virtual void fromVariant(const QVariant & variant) = 0;
+                 ^
+[1m../01-traffic-express/TrafficExpress/headers/treasure.h:44:10: [2mnote:[0m Function in derived class
+    void fromVariant(const QVariant &variant);
+         ^
+[1m../01-traffic-express/TrafficExpress/headers/deck.h:42:14: [31mstyle:[39m The function 'toVariant' overrides a function in a base class but is not marked with a 'override' specifier. [missingOverride][0m
+    QVariant toVariant() const;
+             ^
+[1m../01-traffic-express/TrafficExpress/headers/serializable.h:15:22: [2mnote:[0m Virtual function in base class
+    virtual QVariant toVariant() const = 0;
+                     ^
+[1m../01-traffic-express/TrafficExpress/headers/deck.h:42:14: [2mnote:[0m Function in derived class
+    QVariant toVariant() const;
+             ^
+[1m../01-traffic-express/TrafficExpress/headers/deck.h:43:10: [31mstyle:[39m The function 'fromVariant' overrides a function in a base class but is not marked with a 'override' specifier. [missingOverride][0m
+    void fromVariant(const QVariant &variant);
+         ^
+[1m../01-traffic-express/TrafficExpress/headers/serializable.h:17:18: [2mnote:[0m Virtual function in base class
+    virtual void fromVariant(const QVariant & variant) = 0;
+                 ^
+[1m../01-traffic-express/TrafficExpress/headers/deck.h:43:10: [2mnote:[0m Function in derived class
+    void fromVariant(const QVariant &variant);
+         ^
+[1m../01-traffic-express/TrafficExpress/headers/hand.h:40:14: [31mstyle:[39m The function 'toVariant' overrides a function in a base class but is not marked with a 'override' specifier. [missingOverride][0m
+    QVariant toVariant() const;
+             ^
+[1m../01-traffic-express/TrafficExpress/headers/serializable.h:15:22: [2mnote:[0m Virtual function in base class
+    virtual QVariant toVariant() const = 0;
+                     ^
+[1m../01-traffic-express/TrafficExpress/headers/hand.h:40:14: [2mnote:[0m Function in derived class
+    QVariant toVariant() const;
+             ^
+[1m../01-traffic-express/TrafficExpress/headers/hand.h:41:10: [31mstyle:[39m The function 'fromVariant' overrides a function in a base class but is not marked with a 'override' specifier. [missingOverride][0m
+    void fromVariant(const QVariant &variant);
+         ^
+[1m../01-traffic-express/TrafficExpress/headers/serializable.h:17:18: [2mnote:[0m Virtual function in base class
+    virtual void fromVariant(const QVariant & variant) = 0;
+                 ^
+[1m../01-traffic-express/TrafficExpress/headers/hand.h:41:10: [2mnote:[0m Function in derived class
+    void fromVariant(const QVariant &variant);
+         ^
+[1m../01-traffic-express/TrafficExpress/headers/player.h:69:14: [31mstyle:[39m The function 'toVariant' overrides a function in a base class but is not marked with a 'override' specifier. [missingOverride][0m
+    QVariant toVariant() const;
+             ^
+[1m../01-traffic-express/TrafficExpress/headers/serializable.h:15:22: [2mnote:[0m Virtual function in base class
+    virtual QVariant toVariant() const = 0;
+                     ^
+[1m../01-traffic-express/TrafficExpress/headers/player.h:69:14: [2mnote:[0m Function in derived class
+    QVariant toVariant() const;
+             ^
+[1m../01-traffic-express/TrafficExpress/headers/player.h:70:10: [31mstyle:[39m The function 'fromVariant' overrides a function in a base class but is not marked with a 'override' specifier. [missingOverride][0m
+    void fromVariant(const QVariant &variant);
+         ^
+[1m../01-traffic-express/TrafficExpress/headers/serializable.h:17:18: [2mnote:[0m Virtual function in base class
+    virtual void fromVariant(const QVariant & variant) = 0;
+                 ^
+[1m../01-traffic-express/TrafficExpress/headers/player.h:70:10: [2mnote:[0m Function in derived class
+    void fromVariant(const QVariant &variant);
+         ^
+[1m../01-traffic-express/TrafficExpress/headers/wagon.h:66:14: [31mstyle:[39m The function 'toVariant' overrides a function in a base class but is not marked with a 'override' specifier. [missingOverride][0m
+    QVariant toVariant() const;
+             ^
+[1m../01-traffic-express/TrafficExpress/headers/serializable.h:15:22: [2mnote:[0m Virtual function in base class
+    virtual QVariant toVariant() const = 0;
+                     ^
+[1m../01-traffic-express/TrafficExpress/headers/wagon.h:66:14: [2mnote:[0m Function in derived class
+    QVariant toVariant() const;
+             ^
+[1m../01-traffic-express/TrafficExpress/headers/wagon.h:67:10: [31mstyle:[39m The function 'fromVariant' overrides a function in a base class but is not marked with a 'override' specifier. [missingOverride][0m
+    void fromVariant(const QVariant &variant);
+         ^
+[1m../01-traffic-express/TrafficExpress/headers/serializable.h:17:18: [2mnote:[0m Virtual function in base class
+    virtual void fromVariant(const QVariant & variant) = 0;
+                 ^
+[1m../01-traffic-express/TrafficExpress/headers/wagon.h:67:10: [2mnote:[0m Function in derived class
+    void fromVariant(const QVariant &variant);
+         ^
+[1m../01-traffic-express/TrafficExpress/headers/roundcard.h:76:14: [31mstyle:[39m The function 'toVariant' overrides a function in a base class but is not marked with a 'override' specifier. [missingOverride][0m
+    QVariant toVariant() const;
+             ^
+[1m../01-traffic-express/TrafficExpress/headers/serializable.h:15:22: [2mnote:[0m Virtual function in base class
+    virtual QVariant toVariant() const = 0;
+                     ^
+[1m../01-traffic-express/TrafficExpress/headers/roundcard.h:76:14: [2mnote:[0m Function in derived class
+    QVariant toVariant() const;
+             ^
+[1m../01-traffic-express/TrafficExpress/headers/roundcard.h:77:10: [31mstyle:[39m The function 'fromVariant' overrides a function in a base class but is not marked with a 'override' specifier. [missingOverride][0m
+    void fromVariant(const QVariant &variant);
+         ^
+[1m../01-traffic-express/TrafficExpress/headers/serializable.h:17:18: [2mnote:[0m Virtual function in base class
+    virtual void fromVariant(const QVariant & variant) = 0;
+                 ^
+[1m../01-traffic-express/TrafficExpress/headers/roundcard.h:77:10: [2mnote:[0m Function in derived class
+    void fromVariant(const QVariant &variant);
+         ^
+[1m../01-traffic-express/TrafficExpress/headers/train.h:39:14: [31mstyle:[39m The function 'toVariant' overrides a function in a base class but is not marked with a 'override' specifier. [missingOverride][0m
+    QVariant toVariant() const;
+             ^
+[1m../01-traffic-express/TrafficExpress/headers/serializable.h:15:22: [2mnote:[0m Virtual function in base class
+    virtual QVariant toVariant() const = 0;
+                     ^
+[1m../01-traffic-express/TrafficExpress/headers/train.h:39:14: [2mnote:[0m Function in derived class
+    QVariant toVariant() const;
+             ^
+[1m../01-traffic-express/TrafficExpress/headers/train.h:40:10: [31mstyle:[39m The function 'fromVariant' overrides a function in a base class but is not marked with a 'override' specifier. [missingOverride][0m
+    void fromVariant(const QVariant &variant);
+         ^
+[1m../01-traffic-express/TrafficExpress/headers/serializable.h:17:18: [2mnote:[0m Virtual function in base class
+    virtual void fromVariant(const QVariant & variant) = 0;
+                 ^
+[1m../01-traffic-express/TrafficExpress/headers/train.h:40:10: [2mnote:[0m Function in derived class
+    void fromVariant(const QVariant &variant);
+         ^
+[1m../01-traffic-express/TrafficExpress/headers/roundcarddeck.h:36:14: [31mstyle:[39m The function 'toVariant' overrides a function in a base class but is not marked with a 'override' specifier. [missingOverride][0m
+    QVariant toVariant() const;
+             ^
+[1m../01-traffic-express/TrafficExpress/headers/serializable.h:15:22: [2mnote:[0m Virtual function in base class
+    virtual QVariant toVariant() const = 0;
+                     ^
+[1m../01-traffic-express/TrafficExpress/headers/roundcarddeck.h:36:14: [2mnote:[0m Function in derived class
+    QVariant toVariant() const;
+             ^
+[1m../01-traffic-express/TrafficExpress/headers/roundcarddeck.h:37:10: [31mstyle:[39m The function 'fromVariant' overrides a function in a base class but is not marked with a 'override' specifier. [missingOverride][0m
+    void fromVariant(const QVariant &variant);
+         ^
+[1m../01-traffic-express/TrafficExpress/headers/serializable.h:17:18: [2mnote:[0m Virtual function in base class
+    virtual void fromVariant(const QVariant & variant) = 0;
+                 ^
+[1m../01-traffic-express/TrafficExpress/headers/roundcarddeck.h:37:10: [2mnote:[0m Function in derived class
+    void fromVariant(const QVariant &variant);
+         ^
+[1m../01-traffic-express/TrafficExpress/headers/game.h:112:14: [31mstyle:[39m The function 'toVariant' overrides a function in a base class but is not marked with a 'override' specifier. [missingOverride][0m
+    QVariant toVariant() const;
+             ^
+[1m../01-traffic-express/TrafficExpress/headers/serializable.h:15:22: [2mnote:[0m Virtual function in base class
+    virtual QVariant toVariant() const = 0;
+                     ^
+[1m../01-traffic-express/TrafficExpress/headers/game.h:112:14: [2mnote:[0m Function in derived class
+    QVariant toVariant() const;
+             ^
+[1m../01-traffic-express/TrafficExpress/headers/game.h:113:10: [31mstyle:[39m The function 'fromVariant' overrides a function in a base class but is not marked with a 'override' specifier. [missingOverride][0m
+    void fromVariant(const QVariant &variant);
+         ^
+[1m../01-traffic-express/TrafficExpress/headers/serializable.h:17:18: [2mnote:[0m Virtual function in base class
+    virtual void fromVariant(const QVariant & variant) = 0;
+                 ^
+[1m../01-traffic-express/TrafficExpress/headers/game.h:113:10: [2mnote:[0m Function in derived class
+    void fromVariant(const QVariant &variant);
+         ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:39:39: [31mstyle:[39m C-style pointer casting [cstyleCast][0m
+        m_neutralBulletDeck.push_back((NeutralBullet*)nb->Copy());
+                                      ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:640:30: [31mstyle:[39m C-style pointer casting [cstyleCast][0m
+    BanditType nextBandit = ((ActionCard*)nextCardForAction)->bandit();
+                             ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:641:30: [31mstyle:[39m C-style pointer casting [cstyleCast][0m
+    ActionType nextAction = ((ActionCard*)nextCardForAction)->action();
+                             ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:415:20: [31mstyle:[39m Redundant initialization for 'roundCards'. The initialized value is overwritten before it is read. [redundantInitialization][0m
+        roundCards = selectRoundCards(RoundCardType::THREE_TO_FOUR_PLAYERS, allRoundCards);
+                   ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:413:40: [2mnote:[0m roundCards is initialized
+    std::vector<RoundCard*> roundCards = {};
+                                       ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:415:20: [2mnote:[0m roundCards is overwritten
+        roundCards = selectRoundCards(RoundCardType::THREE_TO_FOUR_PLAYERS, allRoundCards);
+                   ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:348:23: [31mstyle:[39m Local variable 'i' shadows outer variable [shadowVariable][0m
+        for (unsigned i = 0; i < numberOfMoneybags; ++i)
+                      ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:340:19: [2mnote:[0m Shadowed declaration
+    for (unsigned i = 0; i < numberOfPlayers; ++i) {
+                  ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:348:23: [2mnote:[0m Shadow variable
+        for (unsigned i = 0; i < numberOfMoneybags; ++i)
+                      ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:351:23: [31mstyle:[39m Local variable 'i' shadows outer variable [shadowVariable][0m
+        for (unsigned i = 0; i < numberOfDiamonds; ++i)
+                      ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:340:19: [2mnote:[0m Shadowed declaration
+    for (unsigned i = 0; i < numberOfPlayers; ++i) {
+                  ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:351:23: [2mnote:[0m Shadow variable
+        for (unsigned i = 0; i < numberOfDiamonds; ++i)
+                      ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:604:21: [31mstyle:[39m Local variable 'msg' shadows outer variable [shadowVariable][0m
+            QString msg = "GAME OVER";
+                    ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:598:17: [2mnote:[0m Shadowed declaration
+        QString msg = "No more ActionCards to play";
+                ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:604:21: [2mnote:[0m Shadow variable
+            QString msg = "GAME OVER";
+                    ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:616:21: [31mstyle:[39m Local variable 'msg' shadows outer variable [shadowVariable][0m
+            QString msg = "PHASE 1: PICK A CARD FROM YOUR HAND OR DRAW 3 FROM DECK.";
+                    ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:598:17: [2mnote:[0m Shadowed declaration
+        QString msg = "No more ActionCards to play";
+                ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:616:21: [2mnote:[0m Shadow variable
+            QString msg = "PHASE 1: PICK A CARD FROM YOUR HAND OR DRAW 3 FROM DECK.";
+                    ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:135:48: [31mstyle:[39m Parameter 'newRounds' can be declared with const [constParameter][0m
+void Game::setRounds( std::vector<RoundCard*> &newRounds)
+                                               ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:482:46: [31mstyle:[39m Parameter 't' can be declared with const [constParameter][0m
+int Game::findPlayersTreasureIndex(Treasure *t, unsigned playerIndex)
+                                             ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:39:29: [31mstyle:[39m Consider using std::transform algorithm instead of a raw loop. [useStlAlgorithm][0m
+        m_neutralBulletDeck.push_back((NeutralBullet*)nb->Copy());
+                            ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:534:33: [31mstyle:[39m Consider using std::copy algorithm instead of a raw loop. [useStlAlgorithm][0m
+                possibleTargets.push_back(p);
+                                ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:542:33: [31mstyle:[39m Consider using std::copy algorithm instead of a raw loop. [useStlAlgorithm][0m
+                possibleTargets.push_back(p);
+                                ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:551:32: [31mstyle:[39m Consider using std::copy_if algorithm instead of a raw loop. [useStlAlgorithm][0m
+                possibleTargets.push_back(p);
+                               ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:584:22: [31mstyle:[39m Consider using std::copy algorithm instead of a raw loop. [useStlAlgorithm][0m
+            treasure.push_back(content);
+                     ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:588:22: [31mstyle:[39m Consider using std::copy algorithm instead of a raw loop. [useStlAlgorithm][0m
+            treasure.push_back(content);
+                     ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:863:52: [31mstyle:[39m Consider using std::any_of algorithm instead of a raw loop. [useStlAlgorithm][0m
+        if(findPlayerById(p->id()) == playerIndex) {
+                                                   ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:222:22: [31merror:[39m Iterators of different containers 'selectedWagons' and 'allPossibleWagons' are used together. [mismatchingContainers][0m
+        if(std::find(selectedWagons.begin(),selectedWagons.end(),w)==allPossibleWagons.end()){
+                     ^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:335:33: [31mstyle:[39m Variable 'remainingSuitcases' is assigned a value that is never used. [unreadVariable][0m
+    unsigned remainingSuitcases = 2;
+                                ^
+[1m../01-traffic-express/TrafficExpress/src/neutralbullet.cpp:4:16: [31m[35mwarning: inconclusive:[39m Member variable 'NeutralBullet::m_id' is not initialized in the constructor. [uninitMemberVar][0m
+NeutralBullet::NeutralBullet()
+               ^
+[1m../01-traffic-express/TrafficExpress/src/player.cpp:8:9: [31mwarning:[39m Member variable 'Player::m_isItMyMove' is not initialized in the constructor. [uninitMemberVar][0m
+Player::Player()
+        ^
+[1m../01-traffic-express/TrafficExpress/src/player.cpp:8:9: [31mwarning:[39m Member variable 'Player::m_id' is not initialized in the constructor. [uninitMemberVar][0m
+Player::Player()
+        ^
+[1m../01-traffic-express/TrafficExpress/src/player.cpp:8:9: [31mwarning:[39m Member variable 'Player::m_hand' is not initialized in the constructor. [uninitMemberVar][0m
+Player::Player()
+        ^
+[1m../01-traffic-express/TrafficExpress/src/player.cpp:8:9: [31mwarning:[39m Member variable 'Player::m_deck' is not initialized in the constructor. [uninitMemberVar][0m
+Player::Player()
+        ^
+[1m../01-traffic-express/TrafficExpress/src/player.cpp:8:9: [31mwarning:[39m Member variable 'Player::m_bulletDeck' is not initialized in the constructor. [uninitMemberVar][0m
+Player::Player()
+        ^
+[1m../01-traffic-express/TrafficExpress/src/player.cpp:8:9: [31mwarning:[39m Member variable 'Player::m_positionInTrain' is not initialized in the constructor. [uninitMemberVar][0m
+Player::Player()
+        ^
+[1m../01-traffic-express/TrafficExpress/src/player.cpp:8:9: [31mwarning:[39m Member variable 'Player::m_roof' is not initialized in the constructor. [uninitMemberVar][0m
+Player::Player()
+        ^
+[1m../01-traffic-express/TrafficExpress/headers/player.h:83:10: [31m[35mstyle: inconclusive:[39m Member variable 'Player::m_isItMyMove' is in the wrong place in the initializer list. [initializerList][0m
+    bool m_isItMyMove;
+         ^
+[1m../01-traffic-express/TrafficExpress/src/player.cpp:14:35: [2mnote:[0m Member variable 'Player::m_isItMyMove' is in the wrong place in the initializer list.
+    : QGraphicsObject(), m_id(id),m_isItMyMove(false)
+                                  ^
+[1m../01-traffic-express/TrafficExpress/headers/player.h:83:10: [2mnote:[0m Member variable 'Player::m_isItMyMove' is in the wrong place in the initializer list.
+    bool m_isItMyMove;
+         ^
+[1m../01-traffic-express/TrafficExpress/src/playerperspective.cpp:25:20: [31mwarning:[39m Member variable 'PlayerPerspective::m_player' is not initialized in the constructor. [uninitMemberVar][0m
+PlayerPerspective::PlayerPerspective()
+                   ^
+[1m../01-traffic-express/TrafficExpress/src/playerperspective.cpp:25:20: [31mwarning:[39m Member variable 'PlayerPerspective::m_table' is not initialized in the constructor. [uninitMemberVar][0m
+PlayerPerspective::PlayerPerspective()
+                   ^
+[1m../01-traffic-express/TrafficExpress/headers/playerperspective.h:67:12: [31m[35mstyle: inconclusive:[39m Member variable 'PlayerPerspective::m_player' is in the wrong place in the initializer list. [initializerList][0m
+    Player*m_player;
+           ^
+[1m../01-traffic-express/TrafficExpress/src/playerperspective.cpp:8:42: [2mnote:[0m Member variable 'PlayerPerspective::m_player' is in the wrong place in the initializer list.
+    :QGraphicsScene(parent),m_game(game),m_player((game->players())[playerIndex]),
+                                         ^
+[1m../01-traffic-express/TrafficExpress/headers/playerperspective.h:67:12: [2mnote:[0m Member variable 'PlayerPerspective::m_player' is in the wrong place in the initializer list.
+    Player*m_player;
+           ^
+[1m../01-traffic-express/TrafficExpress/headers/playerstats.h:15:5: [31mstyle:[39m Class 'PlayerStats' has a constructor with 1 argument that is not explicit. [noExplicitConstructor][0m
+    PlayerStats(Player*,bool deepCopy=false);
+    ^
+[1m../01-traffic-express/TrafficExpress/src/playerperspective.cpp:224:65: [31m[35mstyle: inconclusive:[39m Function 'onPlayerPlayedCard' argument 2 names different: declaration 'CardIndex' definition 'cardIndex'. [funcArgNamesDifferent][0m
+void PlayerPerspective::onPlayerPlayedCard(int playerIndex, int cardIndex)
+                                                                ^
+[1m../01-traffic-express/TrafficExpress/headers/playerperspective.h:39:49: [2mnote:[0m Function 'onPlayerPlayedCard' argument 2 names different: declaration 'CardIndex' definition 'cardIndex'.
+    void onPlayerPlayedCard(int playerIndex,int CardIndex);
+                                                ^
+[1m../01-traffic-express/TrafficExpress/src/playerperspective.cpp:224:65: [2mnote:[0m Function 'onPlayerPlayedCard' argument 2 names different: declaration 'CardIndex' definition 'cardIndex'.
+void PlayerPerspective::onPlayerPlayedCard(int playerIndex, int cardIndex)
+                                                                ^
+[1m../01-traffic-express/TrafficExpress/src/playerperspective.cpp:17:18: [31mstyle:[39m Consider using std::transform algorithm instead of a raw loop. [useStlAlgorithm][0m
+        m_table->push_back(new PlayerStats(p));
+                 ^
+[1m../01-traffic-express/TrafficExpress/src/playerstats.cpp:91:5: [31merror:[39m There is an unknown macro here somewhere. Configuration is required. If Q_UNUSED is a macro then please configure it. [unknownMacro][0m
+    Q_UNUSED(option)
+    ^
+[1m../01-traffic-express/TrafficExpress/src/roundcard.cpp:18:12: [31mwarning:[39m Member variable 'RoundCard::m_type' is not initialized in the constructor. [uninitMemberVar][0m
+RoundCard::RoundCard()
+           ^
+[1m../01-traffic-express/TrafficExpress/src/roundcard.cpp:18:12: [31mwarning:[39m Member variable 'RoundCard::m_event' is not initialized in the constructor. [uninitMemberVar][0m
+RoundCard::RoundCard()
+           ^
+[1m../01-traffic-express/TrafficExpress/src/roundcard.cpp:4:86: [31m[35mstyle: inconclusive:[39m Function 'RoundCard' argument 3 names different: declaration 'miniRound' definition 'miniRounds'. [funcArgNamesDifferent][0m
+RoundCard::RoundCard(RoundCardType type, EventType event, const MiniRoundCollection &miniRounds)
+                                                                                     ^
+[1m../01-traffic-express/TrafficExpress/headers/roundcard.h:47:79: [2mnote:[0m Function 'RoundCard' argument 3 names different: declaration 'miniRound' definition 'miniRounds'.
+    RoundCard(RoundCardType type, EventType event, const MiniRoundCollection &miniRound);
+                                                                              ^
+[1m../01-traffic-express/TrafficExpress/src/roundcard.cpp:4:86: [2mnote:[0m Function 'RoundCard' argument 3 names different: declaration 'miniRound' definition 'miniRounds'.
+RoundCard::RoundCard(RoundCardType type, EventType event, const MiniRoundCollection &miniRounds)
+                                                                                     ^
+[1m../01-traffic-express/TrafficExpress/src/server/playerserver.cpp:4:15: [31mwarning:[39m Member variable 'PlayerServer::m_server' is not initialized in the constructor. [uninitMemberVar][0m
+PlayerServer::PlayerServer(QObject *parent)
+              ^
+[1m../01-traffic-express/TrafficExpress/src/server/playerserver.cpp:4:15: [31mwarning:[39m Member variable 'PlayerServer::m_gameOngoing' is not initialized in the constructor. [uninitMemberVar][0m
+PlayerServer::PlayerServer(QObject *parent)
+              ^
+[1m../01-traffic-express/TrafficExpress/src/server/playerserver.cpp:4:15: [31mwarning:[39m Member variable 'PlayerServer::m_gameToCome' is not initialized in the constructor. [uninitMemberVar][0m
+PlayerServer::PlayerServer(QObject *parent)
+              ^
+[1m../01-traffic-express/TrafficExpress/headers/singleplayerstatemachine.h:13:5: [31mstyle:[39m Class 'SinglePlayerStateMachine' has a constructor with 1 argument that is not explicit. [noExplicitConstructor][0m
+    SinglePlayerStateMachine(std::vector<PlayerPerspective*>&);
+    ^
+[1m../01-traffic-express/TrafficExpress/src/singleplayerstatemachine.cpp:13:86: [31mstyle:[39m Parameter 'pps' can be declared with const [constParameter][0m
+SinglePlayerStateMachine::SinglePlayerStateMachine(std::vector<PlayerPerspective *> &pps)
+                                                                                     ^
+[1m../01-traffic-express/TrafficExpress/src/singleplayerstatemachine.cpp:18:24: [31mstyle:[39m Consider using std::copy algorithm instead of a raw loop. [useStlAlgorithm][0m
+        m_perspectives.push_back(pp);
+                       ^
+[1m../01-traffic-express/TrafficExpress/src/table.cpp:57:5: [31merror:[39m There is an unknown macro here somewhere. Configuration is required. If Q_UNUSED is a macro then please configure it. [unknownMacro][0m
+    Q_UNUSED(option)
+    ^
+[1m../01-traffic-express/TrafficExpress/src/treasure.cpp:18:11: [31mwarning:[39m Member variable 'Treasure::m_value' is not initialized in the constructor. [uninitMemberVar][0m
+Treasure::Treasure(TreasureType type)
+          ^
+[1m../01-traffic-express/TrafficExpress/src/wagon.cpp:40:8: [31mwarning:[39m Member variable 'Wagon::m_sheriff' is not initialized in the constructor. [uninitMemberVar][0m
+Wagon::Wagon()
+       ^
+[1m../01-traffic-express/TrafficExpress/src/wagon.cpp:324:16: [31mstyle:[39m Expression is always true because 'else if' condition is opposite to previous condition at line 317. [multiCondition][0m
+    } else if (roof) {
+               ^
+[1m../01-traffic-express/TrafficExpress/src/wagon.cpp:317:9: [2mnote:[0m first condition
+    if (!roof) {
+        ^
+[1m../01-traffic-express/TrafficExpress/src/wagon.cpp:324:16: [2mnote:[0m else if condition is opposite to first condition
+    } else if (roof) {
+               ^
+[1m../01-traffic-express/TrafficExpress/src/wagon.cpp:182:15: [31mstyle:[39m The scope of the variable 'r' can be reduced. [variableScope][0m
+    Treasure* r;
+              ^
+[1m../01-traffic-express/TrafficExpress/src/wagon.cpp:202:15: [31mstyle:[39m The scope of the variable 'r' can be reduced. [variableScope][0m
+    Treasure* r;
+              ^
+[1m../01-traffic-express/tests/catch.hpp:317:0: [31merror:[39m failed to evaluate #if condition [preprocessorErrorDirective][0m
+  #if __has_include(<string_view>) && defined(CATCH_CPP17_OR_GREATER)
+^
+[1m../01-traffic-express/tests/catch.hpp:8439:0: [31merror:[39m failed to evaluate #if condition [preprocessorErrorDirective][0m
+#if __has_include(<optional>) && __cplusplus >= 201703L
+^
+[1m../01-traffic-express/tests/catch.cpp:0:0: [31minformation:[39m This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/src/playerperspective.cpp:87:0: [31mstyle:[39m The function 'getPlayerSize' is never used. [unusedFunction][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/src/playerperspective.cpp:82:0: [31mstyle:[39m The function 'getPlayerToMoveIndex' is never used. [unusedFunction][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/src/client/playerclient.cpp:56:0: [31mstyle:[39m The function 'getUsername' is never used. [unusedFunction][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/mainwindow.cpp:378:0: [31mstyle:[39m The function 'keyPressEvent' is never used. [unusedFunction][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:70:0: [31mstyle:[39m The function 'mostBulletsShot' is never used. [unusedFunction][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:65:0: [31mstyle:[39m The function 'neutralBulletDeck' is never used. [unusedFunction][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/src/actioncard.cpp:73:0: [31mstyle:[39m The function 'paint' is never used. [unusedFunction][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/src/playerperspective.cpp:63:0: [31mstyle:[39m The function 'removeGameFromScene' is never used. [unusedFunction][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:75:0: [31mstyle:[39m The function 'richestPlayer' is never used. [unusedFunction][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:452:0: [31mstyle:[39m The function 'selectBanditPositions' is never used. [unusedFunction][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/src/actioncard.cpp:39:0: [31mstyle:[39m The function 'setAction' is never used. [unusedFunction][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:160:0: [31mstyle:[39m The function 'setCardsPlayed' is never used. [unusedFunction][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:208:0: [31mstyle:[39m The function 'setDialogueBox' is never used. [unusedFunction][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/src/roundcard.cpp:58:0: [31mstyle:[39m The function 'setEvent' is never used. [unusedFunction][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/src/neutralbullet.cpp:33:0: [31mstyle:[39m The function 'setId' is never used. [unusedFunction][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:145:0: [31mstyle:[39m The function 'setMostBulletsShot' is never used. [unusedFunction][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/src/playerperspective.cpp:74:0: [31mstyle:[39m The function 'setNextPlayerToToMove' is never used. [unusedFunction][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/src/bulletcard.cpp:28:0: [31mstyle:[39m The function 'setNumOfBullets' is never used. [unusedFunction][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:150:0: [31mstyle:[39m The function 'setRichestPlayer' is never used. [unusedFunction][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:198:0: [31mstyle:[39m The function 'setSeed' is never used. [unusedFunction][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/src/roundcard.cpp:53:0: [31mstyle:[39m The function 'setType' is never used. [unusedFunction][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/src/game.cpp:80:0: [31mstyle:[39m The function 'sheriffPosition' is never used. [unusedFunction][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/src/roundcard.cpp:136:0: [31mstyle:[39m The function 'toStringMiniRoundType' is never used. [unusedFunction][0m
+
+^
+[1m../01-traffic-express/TrafficExpress/src/roundcard.cpp:93:0: [31mstyle:[39m The function 'toStringRoundCardType' is never used. [unusedFunction][0m
+
+^
+[1mnofile:0:0: [31minformation:[39m Cppcheck cannot find all the include files (use --check-config for details) [missingInclude][0m
+
