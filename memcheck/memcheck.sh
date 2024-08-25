@@ -14,23 +14,6 @@ CLIENT3_OUTPUT_FILE="memcheck_client3_$(date +%s).out"
 
 CMAKE=/usr/bin/cmake
 
-# Check command-line arguments
-if [ $# -lt 0 ]; then
-    echo "Error: Insufficient arguments. Usage: $0 [-a] [-k]"
-    exit 1
-fi
-
-if [ "$1" = "-a" ] && [ "$2" = "-k" ]; then
-    ANNOTATE=true
-    KCACHEGRIND=true
-elif [ "$1" = "-k" ]; then
-    KCACHEGRIND=true
-elif [ "$1" = "-a" ]; then
-    ANNOTATE=true
-else
-    echo "Only memcheck tool will be run."
-fi
-
 echo "Starting memcheck analysis..."
 
 # Run the server under memcheck in the background
@@ -71,23 +54,6 @@ if ps -p $SERVER_PID > /dev/null; then
         # Optionally, force termination if it didn't exit cleanly
         kill -9 $SERVER_PID
     fi
-fi
-
-# If the annotate option is specified, use callgrind_annotate
-if [ "$ANNOTATE" = true ]; then
-    echo "Running memcheck annotate (if applicable)..."
-    # Note: memcheck_annotate is not a standard tool; you may want to use tools specific to memcheck output
-    # For example, parse the output manually or use other tools as needed.
-fi
-
-# If the KCacheGrind option is specified, use KCacheGrind
-if [ "$KCACHEGRIND" = true ]; then
-    echo "Running KCacheGrind..."
-    kcachegrind "$SERVER_OUTPUT_FILE" &
-    kcachegrind "$CLIENT1_OUTPUT_FILE" &
-    kcachegrind "$CLIENT2_OUTPUT_FILE" &
-    kcachegrind "$CLIENT3_OUTPUT_FILE" &
-    wait
 fi
 
 echo "Memcheck analysis completed. Output saved to ${SERVER_OUTPUT_FILE}, ${CLIENT1_OUTPUT_FILE}, ${CLIENT2_OUTPUT_FILE}, and ${CLIENT3_OUTPUT_FILE}"
