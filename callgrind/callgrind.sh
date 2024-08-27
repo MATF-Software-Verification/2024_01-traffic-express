@@ -13,7 +13,7 @@ CLIENT2_OUTPUT_FILE="callgrind_client2_$(date +%s).out"
 CLIENT3_OUTPUT_FILE="callgrind_client3_$(date +%s).out"
 
 # Directory to save KCachegrind screenshots
-KCACHEGRIND_DIR="/kcachegrind"
+KCACHEGRIND_DIR="kcachegrind"
 mkdir -p "$KCACHEGRIND_DIR"
 
 # Check command-line arguments

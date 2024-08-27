@@ -38,7 +38,7 @@ fi
 echo "Running clang-tidy on C++ source files..."
 find "${PROJECT_DIR}" -name '*.cpp' | while read -r file; do
     echo "Processing $file"
-    clang-tidy "$file" -checks='-*,modernize-use-override,modernize-use-nullptr,readability-const-return-type' >> "${OUTPUT_FILE}" 2>&1
+    clang-tidy "$file" -checks='-*,modernize-use-override,modernize-use-nullptr,readability-const-return-type,performance-for-range-copy' >> "${OUTPUT_FILE}" 2>&1
 done
 
 # Notify completion

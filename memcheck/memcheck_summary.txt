@@ -1,0 +1,264 @@
+Processing file: /home/tadejgojic/2024_01-traffic-express/memcheck/memcheck_client1_1724715449.out
+### Invalid Read Issues in /home/tadejgojic/2024_01-traffic-express/memcheck/memcheck_client1_1724715449.out ###
+==5039== Invalid read of size 8
+Address: 
+Size: 8
+
+==5039== Invalid read of size 8
+Address: 
+Size: 8
+
+==5039== Invalid read of size 8
+Address: 
+Size: 8
+
+==5039== Invalid read of size 8
+Address: 
+Size: 8
+
+### Memory Leak Issues in /home/tadejgojic/2024_01-traffic-express/memcheck/memcheck_client1_1724715449.out ###
+==5039== 64 bytes in 1 blocks are definitely lost in loss record 5,877 of 8,313
+Size: ==5039== bytes
+Location: 
+
+==5039== 416 bytes in 1 blocks are possibly lost in loss record 7,968 of 8,313
+Size: ==5039== bytes
+Location: 
+
+==5039== 416 bytes in 1 blocks are possibly lost in loss record 7,969 of 8,313
+Size: ==5039== bytes
+Location: 
+
+==5039== 416 bytes in 1 blocks are possibly lost in loss record 7,970 of 8,313
+Size: ==5039== bytes
+Location: 
+
+==5039== 536 (40 direct, 496 indirect) bytes in 1 blocks are definitely lost in loss record 8,028 of 8,313
+Size: ==5039== bytes
+Location: 
+
+==5039== 231,586 (16 direct, 231,570 indirect) bytes in 1 blocks are definitely lost in loss record 8,311 of 8,313
+Size: ==5039== bytes
+Location: 
+
+### Summary of Findings for /home/tadejgojic/2024_01-traffic-express/memcheck/memcheck_client1_1724715449.out ###
+Total Invalid Reads: 4
+Total Memory Leaks: 6
+-----------------------------------------
+Processing file: /home/tadejgojic/2024_01-traffic-express/memcheck/memcheck_client2_1724715449.out
+### Invalid Read Issues in /home/tadejgojic/2024_01-traffic-express/memcheck/memcheck_client2_1724715449.out ###
+==5040== Invalid read of size 8
+Address: 
+Size: 8
+
+==5040== Invalid read of size 8
+Address: 
+Size: 8
+
+==5040== Invalid read of size 8
+Address: 
+Size: 8
+
+==5040== Invalid read of size 8
+Address: 
+Size: 8
+
+### Memory Leak Issues in /home/tadejgojic/2024_01-traffic-express/memcheck/memcheck_client2_1724715449.out ###
+==5040== 64 bytes in 1 blocks are definitely lost in loss record 5,924 of 8,636
+Size: ==5040== bytes
+Location: 
+
+==5040== 416 bytes in 1 blocks are possibly lost in loss record 8,193 of 8,636
+Size: ==5040== bytes
+Location: 
+
+==5040== 416 bytes in 1 blocks are possibly lost in loss record 8,194 of 8,636
+Size: ==5040== bytes
+Location: 
+
+==5040== 416 bytes in 1 blocks are possibly lost in loss record 8,195 of 8,636
+Size: ==5040== bytes
+Location: 
+
+==5040== 416 bytes in 1 blocks are possibly lost in loss record 8,196 of 8,636
+Size: ==5040== bytes
+Location: 
+
+==5040== 536 (120 direct, 416 indirect) bytes in 1 blocks are definitely lost in loss record 8,258 of 8,636
+Size: ==5040== bytes
+Location: 
+
+==5040== 536 (376 direct, 160 indirect) bytes in 1 blocks are definitely lost in loss record 8,259 of 8,636
+Size: ==5040== bytes
+Location: 
+
+==5040== 544 (48 direct, 496 indirect) bytes in 1 blocks are definitely lost in loss record 8,260 of 8,636
+Size: ==5040== bytes
+Location: 
+
+==5040== 544 (48 direct, 496 indirect) bytes in 1 blocks are definitely lost in loss record 8,261 of 8,636
+Size: ==5040== bytes
+Location: 
+
+==5040== 544 (120 direct, 424 indirect) bytes in 1 blocks are definitely lost in loss record 8,262 of 8,636
+Size: ==5040== bytes
+Location: 
+
+==5040== 544 (48 direct, 496 indirect) bytes in 1 blocks are definitely lost in loss record 8,263 of 8,636
+Size: ==5040== bytes
+Location: 
+
+==5040== 544 (48 direct, 496 indirect) bytes in 1 blocks are definitely lost in loss record 8,264 of 8,636
+Size: ==5040== bytes
+Location: 
+
+==5040== 544 (376 direct, 168 indirect) bytes in 1 blocks are definitely lost in loss record 8,265 of 8,636
+Size: ==5040== bytes
+Location: 
+
+==5040== 544 (48 direct, 496 indirect) bytes in 1 blocks are definitely lost in loss record 8,266 of 8,636
+Size: ==5040== bytes
+Location: 
+
+==5040== 544 (48 direct, 496 indirect) bytes in 1 blocks are definitely lost in loss record 8,267 of 8,636
+Size: ==5040== bytes
+Location: 
+
+==5040== 544 (48 direct, 496 indirect) bytes in 1 blocks are definitely lost in loss record 8,268 of 8,636
+Size: ==5040== bytes
+Location: 
+
+==5040== 544 (120 direct, 424 indirect) bytes in 1 blocks are definitely lost in loss record 8,269 of 8,636
+Size: ==5040== bytes
+Location: 
+
+==5040== 544 (48 direct, 496 indirect) bytes in 1 blocks are definitely lost in loss record 8,270 of 8,636
+Size: ==5040== bytes
+Location: 
+
+==5040== 544 (48 direct, 496 indirect) bytes in 1 blocks are definitely lost in loss record 8,271 of 8,636
+Size: ==5040== bytes
+Location: 
+
+==5040== 544 (48 direct, 496 indirect) bytes in 1 blocks are definitely lost in loss record 8,272 of 8,636
+Size: ==5040== bytes
+Location: 
+
+==5040== 544 (376 direct, 168 indirect) bytes in 1 blocks are definitely lost in loss record 8,273 of 8,636
+Size: ==5040== bytes
+Location: 
+
+==5040== 544 (120 direct, 424 indirect) bytes in 1 blocks are definitely lost in loss record 8,274 of 8,636
+Size: ==5040== bytes
+Location: 
+
+==5040== 544 (48 direct, 496 indirect) bytes in 1 blocks are definitely lost in loss record 8,275 of 8,636
+Size: ==5040== bytes
+Location: 
+
+==5040== 544 (48 direct, 496 indirect) bytes in 1 blocks are definitely lost in loss record 8,276 of 8,636
+Size: ==5040== bytes
+Location: 
+
+==5040== 544 (48 direct, 496 indirect) bytes in 1 blocks are definitely lost in loss record 8,277 of 8,636
+Size: ==5040== bytes
+Location: 
+
+==5040== 544 (48 direct, 496 indirect) bytes in 1 blocks are definitely lost in loss record 8,278 of 8,636
+Size: ==5040== bytes
+Location: 
+
+==5040== 544 (376 direct, 168 indirect) bytes in 1 blocks are definitely lost in loss record 8,279 of 8,636
+Size: ==5040== bytes
+Location: 
+
+==5040== 614 (376 direct, 238 indirect) bytes in 1 blocks are definitely lost in loss record 8,297 of 8,636
+Size: ==5040== bytes
+Location: 
+
+==5040== 4,146 (152 direct, 3,994 indirect) bytes in 1 blocks are definitely lost in loss record 8,560 of 8,636
+Size: ==5040== bytes
+Location: 
+
+==5040== 5,266 (152 direct, 5,114 indirect) bytes in 1 blocks are definitely lost in loss record 8,574 of 8,636
+Size: ==5040== bytes
+Location: 
+
+==5040== 6,418 (152 direct, 6,266 indirect) bytes in 1 blocks are definitely lost in loss record 8,580 of 8,636
+Size: ==5040== bytes
+Location: 
+
+==5040== 15,340 (120 direct, 15,220 indirect) bytes in 1 blocks are definitely lost in loss record 8,614 of 8,636
+Size: ==5040== bytes
+Location: 
+
+==5040== 18,882 (168 direct, 18,714 indirect) bytes in 1 blocks are definitely lost in loss record 8,622 of 8,636
+Size: ==5040== bytes
+Location: 
+
+==5040== 73,178 (416 direct, 72,762 indirect) bytes in 1 blocks are definitely lost in loss record 8,631 of 8,636
+Size: ==5040== bytes
+Location: 
+
+### Summary of Findings for /home/tadejgojic/2024_01-traffic-express/memcheck/memcheck_client2_1724715449.out ###
+Total Invalid Reads: 4
+Total Memory Leaks: 34
+-----------------------------------------
+Processing file: /home/tadejgojic/2024_01-traffic-express/memcheck/memcheck_client3_1724715449.out
+### Invalid Read Issues in /home/tadejgojic/2024_01-traffic-express/memcheck/memcheck_client3_1724715449.out ###
+==5041== Invalid read of size 8
+Address: 
+Size: 8
+
+==5041== Invalid read of size 8
+Address: 
+Size: 8
+
+==5041== Invalid read of size 8
+Address: 
+Size: 8
+
+==5041== Invalid read of size 8
+Address: 
+Size: 8
+
+### Memory Leak Issues in /home/tadejgojic/2024_01-traffic-express/memcheck/memcheck_client3_1724715449.out ###
+==5041== 64 bytes in 1 blocks are definitely lost in loss record 5,879 of 8,313
+Size: ==5041== bytes
+Location: 
+
+==5041== 416 bytes in 1 blocks are possibly lost in loss record 7,967 of 8,313
+Size: ==5041== bytes
+Location: 
+
+==5041== 416 bytes in 1 blocks are possibly lost in loss record 7,968 of 8,313
+Size: ==5041== bytes
+Location: 
+
+==5041== 416 bytes in 1 blocks are possibly lost in loss record 7,969 of 8,313
+Size: ==5041== bytes
+Location: 
+
+==5041== 416 bytes in 1 blocks are possibly lost in loss record 7,970 of 8,313
+Size: ==5041== bytes
+Location: 
+
+==5041== 536 (120 direct, 416 indirect) bytes in 1 blocks are definitely lost in loss record 8,028 of 8,313
+Size: ==5041== bytes
+Location: 
+
+==5041== 231,232 (88 direct, 231,144 indirect) bytes in 1 blocks are definitely lost in loss record 8,311 of 8,313
+Size: ==5041== bytes
+Location: 
+
+### Summary of Findings for /home/tadejgojic/2024_01-traffic-express/memcheck/memcheck_client3_1724715449.out ###
+Total Invalid Reads: 4
+Total Memory Leaks: 7
+-----------------------------------------
+Processing file: /home/tadejgojic/2024_01-traffic-express/memcheck/memcheck_server_1724715449.out
+### Invalid Read Issues in /home/tadejgojic/2024_01-traffic-express/memcheck/memcheck_server_1724715449.out ###
+### Memory Leak Issues in /home/tadejgojic/2024_01-traffic-express/memcheck/memcheck_server_1724715449.out ###
+### Summary of Findings for /home/tadejgojic/2024_01-traffic-express/memcheck/memcheck_server_1724715449.out ###
+Total Invalid Reads: 0
+Total Memory Leaks: 0
+-----------------------------------------

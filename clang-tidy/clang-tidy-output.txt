@@ -1,637 +1,360 @@
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/tests/catch.cpp:2:10: error: 'catch.hpp' file not found with <angled> include; use "quotes" instead [clang-diagnostic-error]
-#include <catch.hpp>
-         ^~~~~~~~~~~
-         "catch.hpp"
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/tests/../TrafficExpress/headers/card.h:5:10: error: 'QGraphicsObject' file not found [clang-diagnostic-error]
-#include <QGraphicsObject>
-         ^~~~~~~~~~~~~~~~~
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/tests/traffic_express_tests.cpp:1:10: error: 'catch.hpp' file not found with <angled> include; use "quotes" instead [clang-diagnostic-error]
-#include <catch.hpp>
-         ^~~~~~~~~~~
-         "catch.hpp"
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/include/ui_mainwindow.h:12:10: error: 'QtCore/QVariant' file not found [clang-diagnostic-error]
-#include <QtCore/QVariant>
-         ^~~~~~~~~~~~~~~~~
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/K6S233IZAZ/../../headers/card.h:5:10: error: 'QGraphicsObject' file not found [clang-diagnostic-error]
-#include <QGraphicsObject>
-         ^~~~~~~~~~~~~~~~~
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:5:9: warning: '__UINT_LEAST16_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __UINT_LEAST16_MAX__ 0xffff
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:8:9: warning: '__FLT_MIN__' macro redefined [clang-diagnostic-macro-redefined]
-#define __FLT_MIN__ 1.17549435082228750796873653722224568e-38F
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:15:9: warning: '__UINT8_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __UINT8_MAX__ 0xff
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:17:9: warning: '__WINT_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __WINT_MAX__ 0xffffffffU
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:22:9: warning: '__SIZE_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __SIZE_MAX__ 0xffffffffffffffffUL
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:23:9: warning: '__WCHAR_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __WCHAR_MAX__ 0x7fffffff
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:27:9: warning: '__DBL_DENORM_MIN__' macro redefined [clang-diagnostic-macro-redefined]
-#define __DBL_DENORM_MIN__ double(4.94065645841246544176568792868221372e-324L)
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:39:9: warning: '__UINT_FAST64_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __UINT_FAST64_MAX__ 0xffffffffffffffffUL
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:46:9: warning: '__UINT_FAST8_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __UINT_FAST8_MAX__ 0xff
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:53:9: warning: '__UINT_LEAST64_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __UINT_LEAST64_MAX__ 0xffffffffffffffffUL
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:54:9: warning: '__INT_LEAST8_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __INT_LEAST8_MAX__ 0x7f
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:56:9: warning: '__SHRT_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __SHRT_MAX__ 0x7fff
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:57:9: warning: '__LDBL_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __LDBL_MAX__ 1.18973149535723176502126385303097021e+4932L
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:63:9: warning: '__UINT_LEAST8_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __UINT_LEAST8_MAX__ 0xff
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:71:9: warning: '__UINT32_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __UINT32_MAX__ 0xffffffffU
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:78:9: warning: '__SCHAR_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __SCHAR_MAX__ 0x7f
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:94:9: warning: '__FLT_EPSILON__' macro redefined [clang-diagnostic-macro-redefined]
-#define __FLT_EPSILON__ 1.19209289550781250000000000000000000e-7F
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:98:9: warning: '__LDBL_MIN__' macro redefined [clang-diagnostic-macro-redefined]
-#define __LDBL_MIN__ 3.36210314311209350626267781732175260e-4932L
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:105:9: warning: '__INT32_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __INT32_MAX__ 0x7fffffff
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:112:9: warning: '__DECIMAL_DIG__' macro redefined [clang-diagnostic-macro-redefined]
-#define __DECIMAL_DIG__ 21
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:116:9: warning: '__INT16_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __INT16_MAX__ 0x7fff
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:122:9: warning: '__GNUC__' macro redefined [clang-diagnostic-macro-redefined]
-#define __GNUC__ 11
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:133:9: warning: '__DBL_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __DBL_MAX__ double(1.79769313486231570814527423731704357e+308L)
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:135:9: warning: '__INT_FAST32_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __INT_FAST32_MAX__ 0x7fffffffffffffffL
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:143:9: warning: '__UINT_LEAST32_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __UINT_LEAST32_MAX__ 0xffffffffU
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:145:9: warning: '__INT_FAST16_TYPE__' macro redefined [clang-diagnostic-macro-redefined]
-#define __INT_FAST16_TYPE__ long int
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:160:9: warning: '__PTRDIFF_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __PTRDIFF_MAX__ 0x7fffffffffffffffL
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:164:9: warning: '__LONG_LONG_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __LONG_LONG_MAX__ 0x7fffffffffffffffLL
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:174:9: warning: '__GXX_ABI_VERSION' macro redefined [clang-diagnostic-macro-redefined]
-#define __GXX_ABI_VERSION 1016
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:183:9: warning: '__DBL_MIN__' macro redefined [clang-diagnostic-macro-redefined]
-#define __DBL_MIN__ double(2.22507385850720138309023271733240406e-308L)
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:195:9: warning: '__UINT16_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __UINT16_MAX__ 0xffff
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:205:9: warning: '__VERSION__' macro redefined [clang-diagnostic-macro-redefined]
-#define __VERSION__ "11.4.0"
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:209:9: warning: '__INT_LEAST32_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __INT_LEAST32_MAX__ 0x7fffffff
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:224:9: warning: '__INT_FAST32_TYPE__' macro redefined [clang-diagnostic-macro-redefined]
-#define __INT_FAST32_TYPE__ long int
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:225:9: warning: '__UINT_LEAST16_TYPE__' macro redefined [clang-diagnostic-macro-redefined]
-#define __UINT_LEAST16_TYPE__ short unsigned int
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:230:9: warning: '__UINT64_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __UINT64_MAX__ 0xffffffffffffffffUL
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:240:9: warning: '__INT_LEAST16_TYPE__' macro redefined [clang-diagnostic-macro-redefined]
-#define __INT_LEAST16_TYPE__ short int
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:241:9: warning: '__LDBL_EPSILON__' macro redefined [clang-diagnostic-macro-redefined]
-#define __LDBL_EPSILON__ 1.08420217248550443400745280086994171e-19L
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:246:9: warning: '__SIG_ATOMIC_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __SIG_ATOMIC_MAX__ 0x7fffffff
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:255:9: warning: '__INT_FAST16_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __INT_FAST16_MAX__ 0x7fffffffffffffffL
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:257:9: warning: '__UINT_FAST32_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __UINT_FAST32_MAX__ 0xffffffffffffffffUL
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:261:9: warning: '__LONG_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __LONG_MAX__ 0x7fffffffffffffffL
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:267:9: warning: '__UINT_FAST16_TYPE__' macro redefined [clang-diagnostic-macro-redefined]
-#define __UINT_FAST16_TYPE__ long unsigned int
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:269:9: warning: '__INT_FAST32_WIDTH__' macro redefined [clang-diagnostic-macro-redefined]
-#define __INT_FAST32_WIDTH__ 64
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:270:9: warning: '__CHAR16_TYPE__' macro redefined [clang-diagnostic-macro-redefined]
-#define __CHAR16_TYPE__ short unsigned int
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:274:9: warning: '__INT_LEAST16_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __INT_LEAST16_MAX__ 0x7fff
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:276:9: warning: '__INT64_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __INT64_MAX__ 0x7fffffffffffffffL
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:282:9: warning: '__INT16_TYPE__' macro redefined [clang-diagnostic-macro-redefined]
-#define __INT16_TYPE__ short int
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:287:9: warning: '__INT_FAST8_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __INT_FAST8_MAX__ 0x7f
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:289:9: warning: '__INTPTR_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __INTPTR_MAX__ 0x7fffffffffffffffL
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:310:9: warning: '__UINT16_TYPE__' macro redefined [clang-diagnostic-macro-redefined]
-#define __UINT16_TYPE__ short unsigned int
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:313:9: warning: '__UINTPTR_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __UINTPTR_MAX__ 0xffffffffffffffffUL
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:316:9: warning: '__INT_FAST64_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __INT_FAST64_MAX__ 0x7fffffffffffffffL
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:322:9: warning: '__INT_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __INT_MAX__ 0x7fffffff
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:331:9: warning: '__INT_LEAST64_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __INT_LEAST64_MAX__ 0x7fffffffffffffffL
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:349:9: warning: '__DBL_EPSILON__' macro redefined [clang-diagnostic-macro-redefined]
-#define __DBL_EPSILON__ double(2.22044604925031308084726333618164062e-16L)
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:356:9: warning: '__GNUC_PATCHLEVEL__' macro redefined [clang-diagnostic-macro-redefined]
-#define __GNUC_PATCHLEVEL__ 0
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:360:9: warning: '__INTMAX_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __INTMAX_MAX__ 0x7fffffffffffffffL
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:380:9: warning: '__FLT_DENORM_MIN__' macro redefined [clang-diagnostic-macro-redefined]
-#define __FLT_DENORM_MIN__ 1.40129846432481707092372958328991613e-45F
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:382:9: warning: '__INT8_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __INT8_MAX__ 0x7f
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:385:9: warning: '__UINT_FAST32_TYPE__' macro redefined [clang-diagnostic-macro-redefined]
-#define __UINT_FAST32_TYPE__ long unsigned int
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:388:9: warning: '__FLT_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __FLT_MAX__ 3.40282346638528859811704183484516925e+38F
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:402:9: warning: '__GNUC_MINOR__' macro redefined [clang-diagnostic-macro-redefined]
-#define __GNUC_MINOR__ 4
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:404:9: warning: '__INT_FAST16_WIDTH__' macro redefined [clang-diagnostic-macro-redefined]
-#define __INT_FAST16_WIDTH__ 64
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:405:9: warning: '__UINTMAX_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __UINTMAX_MAX__ 0xffffffffffffffffUL
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:410:9: warning: '__LDBL_DENORM_MIN__' macro redefined [clang-diagnostic-macro-redefined]
-#define __LDBL_DENORM_MIN__ 3.64519953188247460252840593361941982e-4951L
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/moc_predefs.h:429:9: warning: '__UINT_FAST16_MAX__' macro redefined [clang-diagnostic-macro-redefined]
-#define __UINT_FAST16_MAX__ 0xffffffffffffffffUL
-        ^
-note: previous definition is here
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/K6S233IZAZ/../../headers/card.h:5:10: error: 'QGraphicsObject' file not found [clang-diagnostic-error]
-#include <QGraphicsObject>
-         ^~~~~~~~~~~~~~~~~
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/K6S233IZAZ/../../headers/roundcard.h:7:10: error: 'QGraphicsObject' file not found [clang-diagnostic-error]
-#include <QGraphicsObject>
-         ^~~~~~~~~~~~~~~~~
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/K6S233IZAZ/../../headers/roundcarddeck.h:4:10: error: 'QGraphicsObject' file not found [clang-diagnostic-error]
-#include <QGraphicsObject>
-         ^~~~~~~~~~~~~~~~~
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/K6S233IZAZ/../../headers/dialoguebox.h:4:10: error: 'QGraphicsPixmapItem' file not found [clang-diagnostic-error]
-#include <QGraphicsPixmapItem>
-         ^~~~~~~~~~~~~~~~~~~~~
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/K6S233IZAZ/../../headers/miniround.h:4:10: error: 'qgraphicsitem.h' file not found [clang-diagnostic-error]
-#include <qgraphicsitem.h>
-         ^~~~~~~~~~~~~~~~~
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/K6S233IZAZ/../../headers/singleplayerstatemachine.h:5:10: error: 'playerperspectivecollection.h' file not found [clang-diagnostic-error]
-#include "playerperspectivecollection.h"
-         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/K6S233IZAZ/../../headers/card.h:5:10: error: 'QGraphicsObject' file not found [clang-diagnostic-error]
-#include <QGraphicsObject>
-         ^~~~~~~~~~~~~~~~~
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/K6S233IZAZ/../../headers/playerperspective.h:4:10: error: 'game.h' file not found with <angled> include; use "quotes" instead [clang-diagnostic-error]
-#include <game.h>
-         ^~~~~~~~
-         "game.h"
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/K6S233IZAZ/../../headers/card.h:5:10: error: 'QGraphicsObject' file not found [clang-diagnostic-error]
-#include <QGraphicsObject>
-         ^~~~~~~~~~~~~~~~~
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/K6S233IZAZ/../../headers/player.h:11:10: error: 'card.h' file not found with <angled> include; use "quotes" instead [clang-diagnostic-error]
-#include <card.h>
-         ^~~~~~~~
-         "card.h"
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/K6S233IZAZ/../../headers/playerstats.h:4:10: error: 'player.h' file not found with <angled> include; use "quotes" instead [clang-diagnostic-error]
-#include <player.h>
-         ^~~~~~~~~~
-         "player.h"
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/K6S233IZAZ/../../headers/treasure.h:4:10: error: 'QGraphicsObject' file not found [clang-diagnostic-error]
-#include <QGraphicsObject>
-         ^~~~~~~~~~~~~~~~~
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/K6S233IZAZ/../../headers/sheriff.h:4:10: error: 'QGraphicsObject' file not found [clang-diagnostic-error]
-#include <QGraphicsObject>
-         ^~~~~~~~~~~~~~~~~
-/home/tadejgojic/2024_01-traffic-express/clang-tidy/../01-traffic-express/TrafficExpress/TrafficExpress_autogen/K6S233IZAZ/../../headers/wagon.h:4:10: error: 'sheriff.h' file not found with <angled> include; use "quotes" instead [clang-diagnostic-error]
-#include <sheriff.h>
-         ^~~~~~~~~~~
-         "sheriff.h"
-USAGE: clang-tidy [options] <source0> [... <sourceN>]
-
-OPTIONS:
-
-Generic Options:
-
-  --help                         - Display available options (--help-hidden for more)
-  --version                      - Display the version of this program
-
-clang-tidy options:
-
-  --checks=<string>              - 
-                                   Comma-separated list of globs with optional '-'
-                                   prefix. Globs are processed in order of
-                                   appearance in the list. Globs without '-'
-                                   prefix add checks with matching names to the
-                                   set, globs with the '-' prefix remove checks
-                                   with matching names from the set of enabled
-                                   checks. This option's value is appended to the
-                                   value of the 'Checks' option in .clang-tidy
-                                   file, if any.
-  --config=<string>              - 
-                                   Specifies a configuration in YAML/JSON format:
-                                     -config="{Checks: '*',
-                                               CheckOptions: [{key: x,
-                                                               value: y}]}"
-                                   When the value is empty, clang-tidy will
-                                   attempt to find a file named .clang-tidy for
-                                   each source file in its parent directories.
-  --config-file=<string>         - 
-                                   Specify the path of .clang-tidy or custom config file:
-                                    e.g. --config-file=/some/path/myTidyConfigFile
-                                   This option internally works exactly the same way as
-                                    --config option after reading specified config file.
-                                   Use either --config-file or --config, not both.
-  --dump-config                  - 
-                                   Dumps configuration in the YAML format to
-                                   stdout. This option can be used along with a
-                                   file name (and '--' if the file is outside of a
-                                   project with configured compilation database).
-                                   The configuration used for this file will be
-                                   printed.
-                                   Use along with -checks=* to include
-                                   configuration of all checks.
-  --enable-check-profile         - 
-                                   Enable per-check timing profiles, and print a
-                                   report to stderr.
-  --explain-config               - 
-                                   For each enabled check explains, where it is
-                                   enabled, i.e. in clang-tidy binary, command
-                                   line or a specific configuration file.
-  --export-fixes=<filename>      - 
-                                   YAML file to store suggested fixes in. The
-                                   stored fixes can be applied to the input source
-                                   code with clang-apply-replacements.
-  --extra-arg=<string>           - Additional argument to append to the compiler command line
-  --extra-arg-before=<string>    - Additional argument to prepend to the compiler command line
-  --fix                          - 
-                                   Apply suggested fixes. Without -fix-errors
-                                   clang-tidy will bail out if any compilation
-                                   errors were found.
-  --fix-errors                   - 
-                                   Apply suggested fixes even if compilation
-                                   errors were found. If compiler errors have
-                                   attached fix-its, clang-tidy will apply them as
-                                   well.
-  --fix-notes                    - 
-                                   If a warning has no fix, but a single fix can 
-                                   be found through an associated diagnostic note, 
-                                   apply the fix. 
-                                   Specifying this flag will implicitly enable the 
-                                   '--fix' flag.
-  --format-style=<string>        - 
-                                   Style for formatting code around applied fixes:
-                                     - 'none' (default) turns off formatting
-                                     - 'file' (literally 'file', not a placeholder)
-                                       uses .clang-format file in the closest parent
-                                       directory
-                                     - '{ <json> }' specifies options inline, e.g.
-                                       -format-style='{BasedOnStyle: llvm, IndentWidth: 8}'
-                                     - 'llvm', 'google', 'webkit', 'mozilla'
-                                   See clang-format documentation for the up-to-date
-                                   information about formatting styles and options.
-                                   This option overrides the 'FormatStyle` option in
-                                   .clang-tidy file, if any.
-  --header-filter=<string>       - 
-                                   Regular expression matching the names of the
-                                   headers to output diagnostics from. Diagnostics
-                                   from the main file of each translation unit are
-                                   always displayed.
-                                   Can be used together with -line-filter.
-                                   This option overrides the 'HeaderFilterRegex'
-                                   option in .clang-tidy file, if any.
-  --line-filter=<string>         - 
-                                   List of files with line ranges to filter the
-                                   warnings. Can be used together with
-                                   -header-filter. The format of the list is a
-                                   JSON array of objects:
-                                     [
-                                       {"name":"file1.cpp","lines":[[1,3],[5,7]]},
-                                       {"name":"file2.h"}
-                                     ]
-  --list-checks                  - 
-                                   List all enabled checks and exit. Use with
-                                   -checks=* to list all available checks.
-  --load=<pluginfilename>        - Load the specified plugin
-  -p=<string>                    - Build path
-  --quiet                        - 
-                                   Run clang-tidy in quiet mode. This suppresses
-                                   printing statistics about ignored warnings and
-                                   warnings treated as errors if the respective
-                                   options are specified.
-  --store-check-profile=<prefix> - 
-                                   By default reports are printed in tabulated
-                                   format to stderr. When this option is passed,
-                                   these per-TU profiles are instead stored as JSON.
-  --system-headers               - Display the errors from system headers.
-  --use-color                    - 
-                                   Use colors in diagnostics. If not set, colors
-                                   will be used if the terminal connected to
-                                   standard output supports colors.
-                                   This option overrides the 'UseColor' option in
-                                   .clang-tidy file, if any.
-  --vfsoverlay=<filename>        - 
-                                   Overlay the virtual filesystem described by file
-                                   over the real file system.
-  --warnings-as-errors=<string>  - 
-                                   Upgrades warnings to errors. Same format as
-                                   '-checks'.
-                                   This option's value is appended to the value of
-                                   the 'WarningsAsErrors' option in .clang-tidy
-                                   file, if any.
-error: unable to handle compilation, expected exactly one compiler job in '' [clang-diagnostic-error]
-error: unable to handle compilation, expected exactly one compiler job in '' [clang-diagnostic-error]
-error: unable to handle compilation, expected exactly one compiler job in '' [clang-diagnostic-error]
-error: unable to handle compilation, expected exactly one compiler job in '' [clang-diagnostic-error]
-error: unable to handle compilation, expected exactly one compiler job in '' [clang-diagnostic-error]
-error: unable to handle compilation, expected exactly one compiler job in '' [clang-diagnostic-error]
-223 warnings generated.
-Suppressed 223 warnings (223 in non-user code).
+347 warnings generated.
+Suppressed 347 warnings (347 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-69 warnings generated.
-Suppressed 69 warnings (69 in non-user code).
+153 warnings generated.
+Suppressed 153 warnings (153 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-111 warnings generated.
-Suppressed 111 warnings (111 in non-user code).
+205 warnings generated.
+Suppressed 205 warnings (205 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-115 warnings generated.
-Suppressed 115 warnings (115 in non-user code).
+210 warnings generated.
+Suppressed 210 warnings (210 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-67 warnings generated.
-Suppressed 67 warnings (67 in non-user code).
+147 warnings generated.
+Suppressed 147 warnings (147 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-67 warnings generated.
-Suppressed 67 warnings (67 in non-user code).
+147 warnings generated.
+Suppressed 147 warnings (147 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-215 warnings generated.
-Suppressed 215 warnings (215 in non-user code).
+324 warnings generated.
+Suppressed 324 warnings (324 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-215 warnings generated.
-Suppressed 215 warnings (215 in non-user code).
+323 warnings generated.
+Suppressed 323 warnings (323 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-184 warnings generated.
-Suppressed 184 warnings (184 in non-user code).
+286 warnings generated.
+Suppressed 286 warnings (286 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-117 warnings generated.
-Suppressed 117 warnings (117 in non-user code).
+202 warnings generated.
+Suppressed 202 warnings (202 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-189 warnings generated.
-Suppressed 189 warnings (189 in non-user code).
+292 warnings generated.
+Suppressed 292 warnings (292 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-67 warnings generated.
-Suppressed 67 warnings (67 in non-user code).
+147 warnings generated.
+Suppressed 147 warnings (147 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-193 warnings generated.
-Suppressed 193 warnings (193 in non-user code).
-Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-186 warnings generated.
-Suppressed 186 warnings (186 in non-user code).
-Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-77 warnings generated.
-Suppressed 77 warnings (77 in non-user code).
-Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-182 warnings generated.
-Suppressed 182 warnings (182 in non-user code).
-Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-77 warnings generated.
-Suppressed 77 warnings (77 in non-user code).
-Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-217 warnings generated.
-Suppressed 217 warnings (217 in non-user code).
-Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-223 warnings generated.
-Suppressed 223 warnings (223 in non-user code).
-Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-228 warnings generated.
-Suppressed 228 warnings (228 in non-user code).
-Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-55 warnings generated.
-Suppressed 55 warnings (55 in non-user code).
-Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-55 warnings generated.
-Suppressed 55 warnings (55 in non-user code).
+297 warnings generated.
+Suppressed 297 warnings (297 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
 289 warnings generated.
 Suppressed 289 warnings (289 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-55 warnings generated.
-Suppressed 55 warnings (55 in non-user code).
+162 warnings generated.
+Suppressed 162 warnings (162 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-61 warnings generated.
-Suppressed 61 warnings (61 in non-user code).
+284 warnings generated.
+Suppressed 284 warnings (284 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-72 warnings generated.
-Suppressed 72 warnings (72 in non-user code).
+162 warnings generated.
+Suppressed 162 warnings (162 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-107 warnings generated.
-Suppressed 107 warnings (107 in non-user code).
+340 warnings generated.
+Suppressed 340 warnings (340 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-71 warnings generated.
-Suppressed 71 warnings (71 in non-user code).
+346 warnings generated.
+Suppressed 346 warnings (346 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-182 warnings generated.
-Suppressed 182 warnings (182 in non-user code).
+351 warnings generated.
+Suppressed 351 warnings (351 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-184 warnings generated.
-Suppressed 184 warnings (184 in non-user code).
+139 warnings generated.
+Suppressed 139 warnings (139 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-72 warnings generated.
-Suppressed 72 warnings (72 in non-user code).
+139 warnings generated.
+Suppressed 139 warnings (139 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-215 warnings generated.
-Suppressed 215 warnings (215 in non-user code).
+415 warnings generated.
+Suppressed 415 warnings (415 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-71 warnings generated.
-Suppressed 71 warnings (71 in non-user code).
+142 warnings generated.
+Suppressed 142 warnings (142 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-51 warnings generated.
-Suppressed 51 warnings (51 in non-user code).
+144 warnings generated.
+Suppressed 144 warnings (144 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-117 warnings generated.
-Suppressed 117 warnings (117 in non-user code).
+170 warnings generated.
+Suppressed 170 warnings (170 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-184 warnings generated.
-Suppressed 184 warnings (184 in non-user code).
+200 warnings generated.
+Suppressed 200 warnings (200 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-111 warnings generated.
-Suppressed 111 warnings (111 in non-user code).
+155 warnings generated.
+Suppressed 155 warnings (155 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-189 warnings generated.
-Suppressed 189 warnings (189 in non-user code).
+302 warnings generated.
+Suppressed 302 warnings (302 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-67 warnings generated.
-Suppressed 67 warnings (67 in non-user code).
+287 warnings generated.
+Suppressed 287 warnings (287 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-215 warnings generated.
-Suppressed 215 warnings (215 in non-user code).
+156 warnings generated.
+Suppressed 156 warnings (156 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-72 warnings generated.
-Suppressed 72 warnings (72 in non-user code).
+324 warnings generated.
+Suppressed 324 warnings (324 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-182 warnings generated.
-Suppressed 182 warnings (182 in non-user code).
+155 warnings generated.
+Suppressed 155 warnings (155 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-111 warnings generated.
-Suppressed 111 warnings (111 in non-user code).
+130 warnings generated.
+Suppressed 130 warnings (130 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-117 warnings generated.
-Suppressed 117 warnings (117 in non-user code).
+204 warnings generated.
+Suppressed 204 warnings (204 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-187 warnings generated.
-Suppressed 187 warnings (187 in non-user code).
+288 warnings generated.
+Suppressed 288 warnings (288 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+208 warnings generated.
+Suppressed 208 warnings (208 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+294 warnings generated.
+Suppressed 294 warnings (294 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+149 warnings generated.
+Suppressed 149 warnings (149 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+324 warnings generated.
+Suppressed 324 warnings (324 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+159 warnings generated.
+Suppressed 159 warnings (159 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+286 warnings generated.
+Suppressed 286 warnings (286 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
 222 warnings generated.
 Suppressed 222 warnings (222 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-115 warnings generated.
-Suppressed 115 warnings (115 in non-user code).
+228 warnings generated.
+Suppressed 228 warnings (228 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-189 warnings generated.
-Suppressed 189 warnings (189 in non-user code).
+291 warnings generated.
+Suppressed 291 warnings (291 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-117 warnings generated.
-Suppressed 117 warnings (117 in non-user code).
+351 warnings generated.
+Suppressed 351 warnings (351 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-117 warnings generated.
-Suppressed 117 warnings (117 in non-user code).
+227 warnings generated.
+Suppressed 227 warnings (227 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-67 warnings generated.
-Suppressed 67 warnings (67 in non-user code).
+309 warnings generated.
+Suppressed 309 warnings (309 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-215 warnings generated.
-Suppressed 215 warnings (215 in non-user code).
+230 warnings generated.
+Suppressed 230 warnings (230 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-216 warnings generated.
-Suppressed 216 warnings (216 in non-user code).
+220 warnings generated.
+Suppressed 220 warnings (220 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-194 warnings generated.
-Suppressed 194 warnings (194 in non-user code).
+151 warnings generated.
+Suppressed 151 warnings (151 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-67 warnings generated.
-Suppressed 67 warnings (67 in non-user code).
+325 warnings generated.
+Suppressed 325 warnings (325 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
-69 warnings generated.
-Suppressed 69 warnings (69 in non-user code).
+356 warnings generated.
+/home/tadejgojic/2024_01-traffic-express/01-traffic-express/TrafficExpress/src/game.cpp:248:16: warning: use nullptr [modernize-use-nullptr]
+    srand(time(0));
+               ^
+               nullptr
+/home/tadejgojic/2024_01-traffic-express/01-traffic-express/TrafficExpress/src/game.cpp:259:20: warning: use nullptr [modernize-use-nullptr]
+        srand(time(0));
+                   ^
+                   nullptr
+/home/tadejgojic/2024_01-traffic-express/01-traffic-express/TrafficExpress/src/game.cpp:420:16: warning: use nullptr [modernize-use-nullptr]
+    srand(time(0));
+               ^
+               nullptr
+Suppressed 353 warnings (353 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+314 warnings generated.
+Suppressed 314 warnings (314 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+151 warnings generated.
+Suppressed 151 warnings (151 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+153 warnings generated.
+Suppressed 153 warnings (153 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+347 warnings generated.
+Suppressed 347 warnings (347 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+153 warnings generated.
+Suppressed 153 warnings (153 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+205 warnings generated.
+Suppressed 205 warnings (205 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+210 warnings generated.
+Suppressed 210 warnings (210 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+147 warnings generated.
+Suppressed 147 warnings (147 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+147 warnings generated.
+Suppressed 147 warnings (147 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+324 warnings generated.
+Suppressed 324 warnings (324 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+323 warnings generated.
+Suppressed 323 warnings (323 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+286 warnings generated.
+Suppressed 286 warnings (286 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+202 warnings generated.
+Suppressed 202 warnings (202 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+292 warnings generated.
+Suppressed 292 warnings (292 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+147 warnings generated.
+Suppressed 147 warnings (147 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+297 warnings generated.
+Suppressed 297 warnings (297 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+289 warnings generated.
+Suppressed 289 warnings (289 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+162 warnings generated.
+Suppressed 162 warnings (162 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+284 warnings generated.
+Suppressed 284 warnings (284 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+162 warnings generated.
+Suppressed 162 warnings (162 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+340 warnings generated.
+Suppressed 340 warnings (340 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+346 warnings generated.
+Suppressed 346 warnings (346 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+351 warnings generated.
+Suppressed 351 warnings (351 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+139 warnings generated.
+Suppressed 139 warnings (139 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+139 warnings generated.
+Suppressed 139 warnings (139 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+415 warnings generated.
+Suppressed 415 warnings (415 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+142 warnings generated.
+Suppressed 142 warnings (142 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+144 warnings generated.
+Suppressed 144 warnings (144 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+170 warnings generated.
+Suppressed 170 warnings (170 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+200 warnings generated.
+Suppressed 200 warnings (200 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+155 warnings generated.
+Suppressed 155 warnings (155 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+302 warnings generated.
+Suppressed 302 warnings (302 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+287 warnings generated.
+Suppressed 287 warnings (287 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+156 warnings generated.
+Suppressed 156 warnings (156 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+324 warnings generated.
+Suppressed 324 warnings (324 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+155 warnings generated.
+Suppressed 155 warnings (155 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+130 warnings generated.
+Suppressed 130 warnings (130 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+204 warnings generated.
+Suppressed 204 warnings (204 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+288 warnings generated.
+Suppressed 288 warnings (288 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+208 warnings generated.
+Suppressed 208 warnings (208 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+294 warnings generated.
+Suppressed 294 warnings (294 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+149 warnings generated.
+Suppressed 149 warnings (149 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+324 warnings generated.
+Suppressed 324 warnings (324 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+159 warnings generated.
+Suppressed 159 warnings (159 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+286 warnings generated.
+Suppressed 286 warnings (286 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+222 warnings generated.
+Suppressed 222 warnings (222 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+228 warnings generated.
+Suppressed 228 warnings (228 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+291 warnings generated.
+Suppressed 291 warnings (291 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+351 warnings generated.
+Suppressed 351 warnings (351 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+227 warnings generated.
+Suppressed 227 warnings (227 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+309 warnings generated.
+Suppressed 309 warnings (309 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+230 warnings generated.
+Suppressed 230 warnings (230 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+220 warnings generated.
+Suppressed 220 warnings (220 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+151 warnings generated.
+Suppressed 151 warnings (151 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+325 warnings generated.
+Suppressed 325 warnings (325 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+356 warnings generated.
+/home/tadejgojic/2024_01-traffic-express/01-traffic-express/TrafficExpress/src/game.cpp:248:16: warning: use nullptr [modernize-use-nullptr]
+    srand(time(0));
+               ^
+               nullptr
+/home/tadejgojic/2024_01-traffic-express/01-traffic-express/TrafficExpress/src/game.cpp:259:20: warning: use nullptr [modernize-use-nullptr]
+        srand(time(0));
+                   ^
+                   nullptr
+/home/tadejgojic/2024_01-traffic-express/01-traffic-express/TrafficExpress/src/game.cpp:420:16: warning: use nullptr [modernize-use-nullptr]
+    srand(time(0));
+               ^
+               nullptr
+Suppressed 353 warnings (353 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+314 warnings generated.
+Suppressed 314 warnings (314 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+151 warnings generated.
+Suppressed 151 warnings (151 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+153 warnings generated.
+Suppressed 153 warnings (153 in non-user code).
 Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.

@@ -20,5 +20,5 @@ chmod +x cppcheck.sh
 Pokretanjem skripte `cppcheck.sh`, pokrece se alat cppcheck za staticku analizu koda (kod se analizira bez njegovog izvrsavanja). Ukoliko nije suprotno naglaseno, dodavanjem opcije -n, rezultati pokretanja ovog alata ce se cuvati i u vidu html fajlova u okviru direktorijuma `cppcheck_report`
 
 ```bash
-./run_cppcheck.sh [-o output_file] [-n] source1 [source2 ...]
+./cppcheck.sh [-o output_file] [-n] source1 [source2 ...]
 ```

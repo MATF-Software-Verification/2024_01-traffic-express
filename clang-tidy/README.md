@@ -18,9 +18,10 @@ chmod +x clang-tidy.sh
 ```
 
 Pokretanjem skripte `clang-tidy.sh`, pokrece se build aplikacije i nakon toga pokrece clang-tidy sa sledecim opcijama:
-`modernize-use-override` koja proverava da li se `override` koristi na ispravan nacin i na ispravnim mestima, sto popravlja citljivost koda i sprecava potencijalne bagove.
-`modernize-use-nullptr` koja predlaze da se upotreba `NULL` zameni za upotrebu `nullptr` koja je bezbedna konstantna vrednost za null u modernom C++
-`readability-const-return-type` koja zahteva da metode koje vraćaju pokazivače ili reference koriste const za povratni tip kada je to primenjivo, čime se poboljšava čitljivost i tačnost koda.
+`modernize-use-override`: Preporučuje upotrebu override ključne reči za metode koje nadmašuju virtuelne metode iz bazne klase.
+`modernize-use-nullptr`: Preporučuje upotrebu nullptr umesto NULL ili 0 za pokazivače.
+`readability-const-return-type`: Povećava čitljivost preporukom za dodavanje const kvalifikatora na povratne tipove metoda kada je to moguće.
+`performance-for-range-copy`: Povećava performanse preporukom za upotrebu const reference u for petljama kada se prolazi kroz kolekcije.
 
 ```bash
 ./clang-tidy.sh

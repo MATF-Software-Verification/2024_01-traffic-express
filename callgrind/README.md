@@ -16,17 +16,20 @@ cd callgrind
 
 chmod +x build_callgrind.sh
 chmod +x callgrind.sh
+chmod +x callgrind_analize.sh
+chmod +x clean_callgrind.sh
 
 ```
 
 Prvo pokrećemo skriptu za izgradnju projekta `build_callgrind.sh`.
 Ukoliko je ona uspešno izvršena, pokrećemo skriptu `callgrind.sh` koja radi profajliranje. Prilikom pokretanja skripte, možete koristiti opcije -a koja omogućava callgrind_annotate radi generisanja čitljivijeg izveštaja i -k za omogućavanje KCacheGrind vizualizacije. Ukoliko pokrenete skriptu sa -k opcijom, pokrenuće se KCachegrind konzola. Moguće je pokrenuti i sa obe opcije, redom -a -k.
 Nakon toga pokrećemo skriptu `clean_callgrind.sh` koja će ukloniti sve nepotrebne fajlove.
+Pokretanjem `callgrind_analize.sh` se pokrece alat `kcachegrind` koji nam daje vizuelni prikaz rezultata.
 
 ```bash
 ./build_callgrind.sh
 ./callgrind.sh [-a] [-k]
-
+./callgrind_analize.sh
 ...
 
 ./clean_callgrind.sh
