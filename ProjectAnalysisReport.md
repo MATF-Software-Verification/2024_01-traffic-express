@@ -37,7 +37,7 @@ Od gresaka imammo sledece:
 ## ClangTidy
 Naravno, evo kako bi opis za Clang-Tidy mogao izgledati u sličnom formatu:
 
-Clang-Tidy je alat za statičku analizu koda koji se koristi za otkrivanje i ispravljanje problema u izvornoj šifri C i C++. Ovaj alat analizira kod i primenjuje pravila i preporuke za poboljšanje kvaliteta koda, otkrivanje grešaka, optimizaciju performansi i usklađivanje sa standardima koda. Clang-Tidy nudi razne "check" opcije koje mogu da obuhvate različite aspekte koda, kao što su stil kodiranja, sigurnost, performanse i druge preporuke za poboljšanje.
+Clang-Tidy je alat za statičku analizu koda koji se koristi za otkrivanje i ispravljanje problema u izvornom kodu u C i C++. Ovaj alat analizira kod i primenjuje pravila i preporuke za poboljšanje kvaliteta koda, otkrivanje grešaka, optimizaciju performansi i usklađivanje sa standardima koda. Clang-Tidy nudi razne "check" opcije koje mogu da obuhvate različite aspekte koda, kao što su stil kodiranja, sigurnost, performanse i druge preporuke za poboljšanje.
 
 Možete konfigurisati Clang-Tidy pomoću fajla .clang-tidy koji definiše skup pravila koja se primenjuju tokom analize. 
 Neki od predefinisanih provera koje Clang-Tidy pruža uključuju:
